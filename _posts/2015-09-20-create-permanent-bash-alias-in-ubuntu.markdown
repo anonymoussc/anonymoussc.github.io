@@ -11,7 +11,7 @@ categories: Notes
 
 Example _.bash_aliases_ : 
 
-
+{% gist anonymoussc/856f33f8b225361cc25b %}
 
 Now instead using `sudo apt-get install` user can just type `agi` in the terminal. 
 
