@@ -1,0 +1,106 @@
+# Site name
+name: anonymoussc
+
+description:
+  meta: Nunquam gratia compater est seychelles Deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.
+  subtitle: Nunquam gratia compater est seychelles Deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.
+
+author:
+  name: Anonymoussc
+  # Contact page email address
+  email: 50c5ac69@opayq.com
+  info: (@<a href="mailto:50c5ac69@opayq.com">anonymoussc</a>)
+
+url: http://anonymoussc.github.io/
+baseurl: ""
+lang: en
+
+
+##############
+# Optional
+# APPEREANCE #
+##############
+
+show-subtitle: false
+display-social-icons: false
+footer-text: anonymoussc <50c5ac69@opayq.com>
+# Preferably 64px in height.
+logo-image: # /img/logo.png
+theme-color-attr: "#00f0ff"
+ms-tile-color: "#00f0ff"
+theme-color: 64, 0, 0 # Original: 0, 240, 255
+text-color: 0, 0, 0 # Original: 0, 0, 0
+background-color: 255, 255, 255 # Original: 255, 255, 255
+display-author-post-page: true
+display-author-front-page: true
+# http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+date_format: "%b %-d, %Y"
+nav-breaking-point: 520px
+paginate: 7
+display-next-prev-post: true
+disqus-shortname: x5dceb5ad
+
+
+################
+# SOCIAL ICONS #
+################
+
+twitter:
+youtube:
+instagram:
+tumblr:
+facebook:
+google-plus:
+reddit:
+soundcloud:
+medium:
+linkedin:
+github: https://github.com/anonymoussc
+behance:
+codepen:
+dribbble:
+trello:
+stack-overflow:
+bitcoin:
+paypal:
+
+
+#####################
+# CUSTOMIZABLE TEXT #
+#####################
+
+var_on_the_web: On the web
+var_read: Read # Text after each post summary on the homepage.
+var_newer: Newer
+var_older: Older
+var_next_post: Next post
+var_previous_post: Previous post
+var_less_than_a_minute_read: Less than a minute read
+var_min_read: min read # Text after reading time. Example: 5 min read.
+var_post_by: Post by
+var_guest_post_by: Guest post by
+var_your_email: Your email
+var_your_message: Your message
+
+
+##################
+# BUILD SETTINGS #
+##################
+
+exclude: [vendor]
+highlighter: pygments
+kramdown:
+  input: GFM
+paginate_path: "/page-:num/"
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_separator: "<!--more-->"
+# Gems
+gems:
+  - jemoji
