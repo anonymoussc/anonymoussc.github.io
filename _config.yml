@@ -35,7 +35,7 @@ display-author-post-page: true
 display-author-front-page: true
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples
 date_format: "%b %-d, %Y"
-nav-breaking-point: 520px
+nav-breaking-point: 580px
 paginate: 7
 display-next-prev-post: true
 disqus-shortname: x5dceb5ad
