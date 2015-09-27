@@ -221,5 +221,5 @@ pip-log.txt
 _site/**
 
 /temp
-/_config.yml.dev
+/Gemfile
 /Gemfile.lock
