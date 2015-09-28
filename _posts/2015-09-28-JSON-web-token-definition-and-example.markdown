@@ -1,5 +1,5 @@
 ---
-title:  "JSON Web Token (JWT) definition and example"
+title:  "JSON web token definition and example"
 date:   2015-09-28 08:00:00
 categories: Software-Engineering JWT
 summary: JSON Web Token (JWT) are an open, industry standard RFC 7519 method for representing claims securely between two parties.
