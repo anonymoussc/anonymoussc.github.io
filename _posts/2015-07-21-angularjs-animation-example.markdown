@@ -6,8 +6,7 @@ categories: Software-Engineering AngularJS
 
 Animation, by definition, is the process of creating a continuous motion over a period of time. 
 
-Example code hosted at github gist, click on the link bellow to see example code live preview and code source. 
-Any change to gist will reflected in the live preview at real time. :ok_hand:
+Example code hosted at github gist, click on the link bellow to see example code live preview and code source. Any change to gist will reflected in the live preview at real time. :ok_hand:
 
 1. [Example one animation](http://bl.ocks.org/anonymoussc/6710e4e0f8d76f7f1796)
 2. [CSS transition animation](http://bl.ocks.org/anonymoussc/2effcf00c77abb963010)

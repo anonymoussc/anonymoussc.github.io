@@ -8,22 +8,22 @@ Require __Laravel 5.1__.
 
 Faker package is included by default in _require-dev_ composer.json as of laravel 5.1.
 
-Create the class table seeder (format _modelNameTableSeeder.php_) in _/database/seeds/_ directory, put the example 
-code bellow in the _run()_ method of the class.
+Create the class table seeder (file name format _modelNameTableSeeder.php_) in _/database/seeds/_ directory, put the example code bellow in the _run()_ method of the class.
 
+{% highlight php %}
     $faker = \Faker\Factory::create();
     
     Todolist::truncate();
-
+    
     foreach (range(1, 50) as $index) {
         Todolist::create([
             'name'        => $faker->sentence(2),
             'description' => $faker->sentence(4),
         ]);
     }
+{% endhighlight %}
 
-This will truncate (remove) the table record then it will loop (_foreach_) to create 50 new record for _name_ field it 
-will contain a sentence with 2 words and _descripton_ field with a sentence of 4 words.
+This will truncate (remove) the table record then it will loop (_foreach_) to create 50 new record for _name_ field it will contain a sentence with 2 words and _descripton_ field with a sentence of 4 words.
 
 Faker can be useful for many task related to sample data, [Faker documentation](https://github.com/fzaninotto/Faker).
 

@@ -34,8 +34,7 @@ Syntax command as follow :
 
     sudo chown -R user:group directory
 
-I.e we want to change directory owned by root and group by root into user anonymous and group by anonymous recursively 
-to all of its sub-directory (including files).
+I.e we want to change directory owned by root and group by root into user anonymous and group by anonymous recursively to all of its sub-directory (including files).
 
     sudo chown -R anonymous:anonymous directory
 

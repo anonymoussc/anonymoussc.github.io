@@ -1,5 +1,5 @@
 ---
-title:  "Create permanent bash alias in ubuntu"
+title:  "Create permanent bash alias in Ubuntu"
 date:   2015-09-20 04:54:00
 categories: Notes
 ---
@@ -13,7 +13,7 @@ Example _.bash_aliases_ :
 
 {% gist anonymoussc/856f33f8b225361cc25b bash_aliases.bash %}
 
-Now instead using `sudo apt-get install` user can just type `agi` in the terminal. 
+Instead `sudo apt-get install` user can just type `agi` in the terminal. 
 
 
 ---

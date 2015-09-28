@@ -1,5 +1,5 @@
 ---
-title:  "Installing nodejs v0.12 for debian/ubuntu based distributions"
+title:  "Installing NodeJS v0.12 for Debian / Ubuntu based distributions"
 date:   2015-09-07 21:54:00
 categories: Software-Engineering NodeJS
 ---

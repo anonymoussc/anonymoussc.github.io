@@ -4,15 +4,13 @@ date:   2015-08-09 15:06:42
 categories: Software-Engineering Gulp
 ---
 
-Bellow are gulpfile example for common task such as concatenate, minification, uglify, css prepocessor, image cache, 
-starting local server, error handle etc.
+Bellow are gulpfile example for common task such as concatenate, minification, uglify, css prepocessor, image cache, starting local server, error handle etc.
 
-It run on [gulp-4]({% post_url 2015-05-02-installing-gulp-4-alpha %}).
-The [repositories](https://github.com/apps-libX/gulpbase) on :octocat: [github](https://github.com/).
+It run on [gulp-4]({% post_url 2015-05-02-installing-gulp-4-alpha %}). The [repositories](https://github.com/apps-libX/gulpbase) on :octocat: [github](https://github.com/).
 
 <script src="http://gist-it.appspot.com/github/apps-libX/gulpbase/blob/dev-master/gulpfile.js?footer=0"></script>
 
-and package.json
+_Package.json_
 
 <script src="http://gist-it.appspot.com/github/apps-libX/gulpbase/blob/dev-master/package.json?footer=0"></script>
 
