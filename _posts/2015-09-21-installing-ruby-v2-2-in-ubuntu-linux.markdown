@@ -1,5 +1,5 @@
 ---
-title:  "Installing ruby v2.2 in ubuntu lenny"
+title:  "Installing ruby v2.2 in ubuntu linux"
 date:   2015-09-21 12:38:00
 categories: Linux Ubuntu
 summary: Step by step installing ruby v2.2 in the latest ubuntu linux (15.04).
@@ -32,3 +32,8 @@ sudo apt-get install libxslt-dev libxml2-dev
 # Error : Gem::RemoteFetcher::FetchError: SSL_connect SYSCALL returned=5 errno=0 state=SSLv3 read server session ticket A (https://rubygems.org/gems/html-pipeline-1.9.0.gem)
 # In Gemfile change source 'https://rubygems.org' into source 'http://rubygems.org'
 {% endhighlight %}
+
+
+---
+> Your goals, minus your doubts, equal your reality. 
+> <small>- Ralph Marston</small>
