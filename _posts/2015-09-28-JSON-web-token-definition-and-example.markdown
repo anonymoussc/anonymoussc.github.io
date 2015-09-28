@@ -2,11 +2,11 @@
 title:  "JSON web token definition and example"
 date:   2015-09-28 08:00:00
 categories: Software-Engineering JWT
-summary: JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+summary: JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 cover-image: wire-high-voltage_1024.jpg
 ---
 
-> JSON Web Token (JWT) is a JSON-based open standard (RFC 7519) for passing claims between parties in web application environment. The tokens are designed to be compact, URL-safe and usable especially in web browser single sign-on (SSO) context.
+> JSON Web Token (JWT) is a JSON-based open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) for passing claims between parties in web application environment. The tokens are designed to be compact, URL-safe and usable especially in web browser single sign-on (SSO) context.
 > <small>- [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)</small>
 
 In broad terms, there are three kinds of web application, traditional round-trip application, single-page application
@@ -83,3 +83,8 @@ Encoded :
 Final, all part of JWT :
 
     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ
+
+
+---
+> Whatever the mind of man can conceive and believe, it can achieve. 
+> <small>- [Napoleon Hill](http://www.brainyquote.com/quotes/quotes/n/napoleonhi392258.html)</small>
