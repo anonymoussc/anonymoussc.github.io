@@ -2,7 +2,7 @@
 title:  "JSON web token definition and example"
 date:   2015-09-28 08:00:00
 categories: Software-Engineering JWT
-summary: JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
+summary: JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 cover-image: wire-high-voltage_1024.jpg
 ---
 
@@ -86,5 +86,5 @@ Final, all part of JWT :
 
 
 ---
-> Whatever the mind of man can conceive and believe, it can achieve. 
-> <small>- [Napoleon Hill](http://www.brainyquote.com/quotes/quotes/n/napoleonhi392258.html)</small>
+> Love shall be our token; love be yours and love be mine.
+> <small>- [Christina Rossetti](http://www.brainyquote.com/quotes/quotes/c/christinar147534.html)</small>
