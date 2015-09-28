@@ -18,4 +18,4 @@ _The idea behind unit testing is to test the functionality of a piece of code in
 
 ---
 > Software is a great combination between artistry and engineering. 
-> <small>- Bill Gates</small>
+> <small>- [Bill Gates](http://www.brainyquote.com/quotes/quotes/b/billgates626107.html)</small>

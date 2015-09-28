@@ -44,4 +44,4 @@ The recursive switch `-R` used to make sure all child objects get the same owner
 
 ---
 > To me, constructive criticism is when people take ownership of their ideas. That's why I don't listen to anything that's anonymous. But it's hard; when there's something hurtful out there, I still want to read it over and over and memorize it and explain my point of view to the person. 
-> <small>- Brene Brown</small>
+> <small>- [Brene Brown](http://www.brainyquote.com/quotes/quotes/b/brenebrown553083.html)</small>

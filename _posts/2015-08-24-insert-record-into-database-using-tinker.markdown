@@ -45,4 +45,4 @@ Done.
 
 ---
 > If an NSA, FBI, CIA, DIA, etc analyst has access to query raw SIGINT databases, they can enter and get results for anything they want. Phone number, email, user id, cell phone handset id (IMEI), and so on - it's all the same. 
-> <small>- Edward Snowden</small>
+> <small>- [Edward Snowden](http://www.brainyquote.com/quotes/quotes/e/edwardsnow523864.html)</small>

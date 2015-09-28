@@ -15,4 +15,4 @@ Use `sudo` if necessary (linux).
 
 ---
 > You don't need to invade a place or install a new government to help bring about a positive change. 
-> <small>- Nicholas D. Kristof</small>
+> <small>- [Nicholas D. Kristof](http://www.brainyquote.com/quotes/quotes/n/nicholasd373143.html)</small>

@@ -69,4 +69,4 @@ If your local branch didn't have any unique commits, Git will instead perform a 
 
 ---
 > Markets are frequently ahead of, and often out of sync with, the economy. 
-> <small>- Barry Ritholtz</small>
+> <small>- [Barry Ritholtz](http://www.brainyquote.com/quotes/quotes/b/barryritho692933.html)</small>

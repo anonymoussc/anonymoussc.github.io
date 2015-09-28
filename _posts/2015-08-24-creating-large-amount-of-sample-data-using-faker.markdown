@@ -50,4 +50,4 @@ Seeding the database :
 
 ---
 > The key to good decision making is evaluating the available information - the data - and combining it with your own estimates of pluses and minuses. As an economist, I do this every day. 
-> <small>- Emily Oster</small>
+> <small>- [Emily Oster](http://www.brainyquote.com/quotes/quotes/e/emilyoster554579.html)</small>

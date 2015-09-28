@@ -11,4 +11,4 @@ Simple formula used in LibreOffice calc.
 
 ---
 > The standard formulation on remedy is that it ought to cure past violations and prevent their recurrence. That's what antitrust is all about. 
-> <small>- Charles James</small>
+> <small>- [Charles James](http://www.brainyquote.com/quotes/quotes/c/charlesjam295132.html)</small>

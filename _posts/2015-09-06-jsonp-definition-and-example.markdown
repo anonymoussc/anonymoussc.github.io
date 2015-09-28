@@ -31,4 +31,4 @@ $.ajax({
 
 ---
 > The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central. 
-> <small>- Dennis Ritchie</small>
+> <small>- [Dennis Ritchie](http://www.brainyquote.com/quotes/quotes/d/dennisritc274077.html)</small>

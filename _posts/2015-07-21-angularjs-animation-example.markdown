@@ -47,4 +47,4 @@ Any change to gist will reflected in the live preview at real time. :ok_hand:
 
 ---
 > Computers don't create computer animation any more than a pencil creates pencil animation. What creates computer animation is the artist. 
-> <small>- John Lasseter</small>
+> <small>- [John Lasseter](http://www.brainyquote.com/quotes/quotes/j/johnlasset597738.html)</small>

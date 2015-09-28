@@ -14,4 +14,4 @@ Example (symlinking php executable):
 
 ---
 > By failing to prepare, you are preparing to fail. 
-> <small>- Benjamin Franklin</small>
+> <small>- [Benjamin Franklin](http://www.brainyquote.com/quotes/quotes/b/benjaminfr138217.html)</small>

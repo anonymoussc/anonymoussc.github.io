@@ -11,4 +11,4 @@ In the terminal cli, type :
 
 ---
 > Information about the package is as important as the package itself. 
-> <small>- Frederick W. Smith</small>
+> <small>- [Frederick W. Smith](http://www.brainyquote.com/quotes/quotes/f/frederickw201582.html)</small>

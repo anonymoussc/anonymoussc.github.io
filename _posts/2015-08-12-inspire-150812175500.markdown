@@ -31,4 +31,4 @@ summary: Inspirational quote and videos.
 
 ---
 > I inspire myself. 
-> <small>- Tommy Wiseau</small>
+> <small>- [Tommy Wiseau](http://www.brainyquote.com/quotes/quotes/t/tommywisea572726.html)</small>
