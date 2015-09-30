@@ -25,7 +25,7 @@ home: true
                 {% endif %}
             {% endif %}
             {{ post.date | date: site.date_format }} • {{ read-time }}</span>
-            <a href="{{ post.url | prepend: site.baseurl }}"><h1 class="left-align">{{ post.title }}</h1></a>
+            <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
 
             <p class="justify-text">
                 {% if post.summary %}

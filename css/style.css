@@ -268,7 +268,6 @@ nav {
 }
 article {
   margin-top: 30px;
-  text-align: justify;
 }
 article::after,
 header::after {
@@ -496,12 +495,4 @@ nav a.current {
 /*--------------------------------*/
 .center-image {
   text-align : center;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
-.left-align {
-  text-align: left;
 }
