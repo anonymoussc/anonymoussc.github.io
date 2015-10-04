@@ -20,7 +20,7 @@
 
 body {
   font-family: "Ubuntu", Georgia, Cambria, "Raleway", Times, serif;
-  font-size: 22px;
+  font-size: 20px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: rgba({{ site.text-color }}, .76);
@@ -84,7 +84,9 @@ li * {
 }
 img {
   max-width: 100%;
-  /*display: block;*/
+  /*
+  display: block;
+  */
   margin: 0 auto;
 }
 .img-only {
@@ -106,7 +108,7 @@ h2, h3, h4, h5, h6 {
 }
 h1 {
   font-family: "Tangerine", Raleway, sans-serif;
-  font-size: 2.2em;
+  font-size: 2.5em;
   font-weight: 500;
   background-image: none;
   text-decoration: none !important;
@@ -272,7 +274,9 @@ article {
 article::after,
 header::after {
   margin: 50px 0;
-  /*content: "•";*/
+  /*
+  content: "•";
+  */
   line-height: 0;
   font-size: 60px;
   display: block;
@@ -361,7 +365,9 @@ footer .inner {
   font-family: "Raleway", Verdana, sans-serif;
   font-weight: 500;
   font-size: 24px;
+  /*
   text-align: center;
+  */
   display: block;
   background-image: none;
   text-decoration: none !important;
@@ -400,13 +406,20 @@ nav a.current {
 
 @media all and (min-width: 370px) {
   .website-title {
+    font-size: 26px;
+  }
+  body {
+    font-size: 21px;
+  }
+
+}
+@media all and (min-width: 500px) {
+  .website-title {
     font-size: 32px;
   }
   body {
     font-size: 24px;
   }
-}
-@media all and (min-width: 500px) {
   .wrap {
     padding: 0 30px;
   }
@@ -437,7 +450,7 @@ nav a.current {
     margin: 70px;
   }
   h1 {
-    font-size: 2.6em;
+    font-size: 2.7em;
     margin-bottom: -10px;
   }
   h2 {
@@ -479,7 +492,9 @@ nav a.current {
     top: -5px;
     right: 0px;
     background-color: #fdfdfd;
-    /*border: 1px solid #e8e8e8;*/
+    /*
+    border: 1px solid #e8e8e8;
+    */
     border-radius: 5px;
     text-align: right;
     z-index: 1;
@@ -488,9 +503,11 @@ nav a.current {
     display: inline-block;
     padding: 5px 8px;
   }
+  /*
   .website-title {
     margin-bottom: 80px;
   }
+  */
 }
 @media all and (min-width: 760px) {
   h1 {
@@ -522,7 +539,9 @@ nav a.current {
     }
 
     .site-nav .page-link {
-        /*color: #111;*/
+        /*
+        color: #111;
+        */
         line-height: 1.5;
     }
 

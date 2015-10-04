@@ -1,5 +1,5 @@
 ---
-title:  "JSONP definition and example"
+title:  "Jsonp definition and example"
 date:   2015-09-06 00:03:03
 categories: Software-Engineering JSONP
 summary: JSONP definition (wikipedia) and implementation example. 
