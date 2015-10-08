@@ -11,11 +11,11 @@ cover-image: wire-high-voltage_1024.jpg
 
 In broad terms, there are two kinds of web application, traditional round-trip application and single-page application.
 
-1. Round-trip application
+__1. Round-trip application__
 The browser (client) requests an initial HTML document from the server. User interactions, such as clicking a link or submitting a form led the browser to request and receive a completely new HTML document. 
 
-2. Single-page application
-In single page application, initial page are loaded only once and data exchange between client and the server occur asynchronously in the background through xmlhttprequest.
+__2. Single-page application__
+Single-Page Applications (SPAs) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. SPAs use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads. However, this means much of the work happens on the client side, in JavaScript. [msdn.microsoft.com](https://msdn.microsoft.com/en-us/magazine/dn463786.aspx)
 
 For single page applications that rely on an API, a better way to handle authentication is with JSON web tokens (JWT).
 

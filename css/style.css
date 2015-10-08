@@ -20,7 +20,7 @@
 
 body {
   font-family: "Ubuntu", Georgia, Cambria, "Raleway", Times, serif;
-  font-size: 20px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: rgba({{ site.text-color }}, .76);
@@ -108,7 +108,7 @@ h2, h3, h4, h5, h6 {
 }
 h1 {
   font-family: "Tangerine", Raleway, sans-serif;
-  font-size: 2.5em;
+  font-size: 2.6em;
   font-weight: 500;
   background-image: none;
   text-decoration: none !important;
@@ -546,7 +546,7 @@ nav a.current {
     }
 
     .site-nav .page-link:not(:first-child) {
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     @media screen and (max-width: 610px) {
