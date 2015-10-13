@@ -2,6 +2,7 @@
 title:  "Installing NodeJS v0.12 for Debian / Ubuntu based distributions"
 date:   2015-09-07 21:54:00
 categories: Software-Engineering NodeJS
+summary: CLI command for installing NodeJS v0.12 for Debian / Ubuntu based distributions
 ---
 
 CLI command :
