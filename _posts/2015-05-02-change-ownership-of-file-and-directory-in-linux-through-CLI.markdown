@@ -27,6 +27,11 @@ I.e we want to change package.json file owned by root to user anonymous.
 Syntax command as follow :
 
     sudo chown user:group directory
+    
+I.e we want to change package.json file owned by root and group by root to user anonymous and group by anonymous.
+    
+    sudo chown anonymous:anonymous package.json
+
 
 ### Change user and group ownership of a directory & sub-directory.
 
@@ -40,6 +45,24 @@ I.e we want to change directory owned by root and group by root into user anonym
 
 The recursive switch `-R` used to make sure all child objects get the same ownership changes.
 
+### Delete directory, subdirectory and file owned by root
+
+Syntax command as follow :
+
+    sudo rm -Rf directory_name
+
+Example : 
+
+    sudo rm -Rf node_modules
+    
+In the above example, the _node_modules_ directory, along with all files and directories within that directory, would be deleted with no prompt or message.
+
+Explanation :
+
+    sudo = root
+    rm = remove
+    -R = recurrsive
+    -f = force
 
 ---
 > To me, constructive criticism is when people take ownership of their ideas. That's why I don't listen to anything that's anonymous. But it's hard; when there's something hurtful out there, I still want to read it over and over and memorize it and explain my point of view to the person. 
