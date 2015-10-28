@@ -6,7 +6,7 @@ summary: A few point to notes about angularjs include concept and everything els
 cover-image: minion-lenses-attitude-uniform_1024.jpg
 ---
 
-- The methods defined by the Module object fall into three broad categories: those that define components for an AngularJS application, those that make it easier to create those building blocks, and those that help manage the AngularJS life cycle. I’ll start by introducing the building blocks and then talk about the other features that are available.
+- The methods defined by the Module object fall into three broad categories: those that define components for an AngularJS application, those that make it easier to create those building blocks, and those that help manage the AngularJS life cycle. 
 - The function passed to the `module.controller` method is used to declare the controller’s dependencies, which are the AngularJS components that the controller requires. AngularJS provides some built-in services and features that are specified using argument names that start with the `$` symbol. 
 - All of the Module methods that create AngularJS building blocks accept functions as arguments. These are often _factory functions_, so called because they are responsible for creating the object that AngularJS will employ to perform the work itself. Often, _factory functions_ will return a _worker function_, which is to say that the object that AngularJS will use to perform some work is a function, too. 
 - The filter method is used to define a filter, and the arguments are the name of the new filter and a factory function that will create the filter when invoked. Filters are themselves functions, which receive a data value and format it so it can be displayed.
