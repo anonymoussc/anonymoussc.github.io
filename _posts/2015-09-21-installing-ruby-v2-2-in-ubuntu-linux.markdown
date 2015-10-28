@@ -3,7 +3,6 @@ title:  "Installing Ruby v2.2 in Ubuntu Linux"
 date:   2015-09-21 12:38:00
 categories: Linux Ubuntu
 summary: Step by step installing ruby v2.2 in the latest ubuntu linux (15.04).
-cover-image: 1876_large_1024.jpg
 ---
 
 CLI command :
