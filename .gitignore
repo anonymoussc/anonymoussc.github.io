@@ -221,5 +221,3 @@ pip-log.txt
 _site/**
 
 /temp
-/Gemfile
-/Gemfile.lock
