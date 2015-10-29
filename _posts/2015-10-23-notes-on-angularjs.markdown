@@ -2,7 +2,7 @@
 title:  "Notes on AngularJS"
 date:   2015-10-23 10:53:00
 categories: Notes AngularJS
-summary: A few point to notes about angularjs include concept and everything else.
+summary: A few point to notes about angularjs including concept & everything else.
 cover-image: minion-lenses-attitude-uniform_1024.jpg
 ---
 
