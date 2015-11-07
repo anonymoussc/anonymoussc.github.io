@@ -1,5 +1,5 @@
 ---
-title:  "AngularJS example part 1"
+title:  "AngularJS code example part 1"
 date:   2015-10-23 08:37:00
 categories: Software-Engineering AngularJS
 summary: AngularJS is an open-source web application framework maintained by Google and by a community of individual developers and corporations.
