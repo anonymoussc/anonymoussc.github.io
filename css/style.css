@@ -20,7 +20,7 @@
 
 body {
   font-family: "Raleway", Georgia, Cambria, "Ubuntu", Times, serif;
-  font-size: 18px;
+  font-size: 16px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: rgba({{ site.text-color }}, .76);
@@ -414,7 +414,7 @@ nav a.current {
     font-size: 26px;
   }
   body {
-    font-size: 20px;
+    font-size: 18px;
   }
 
 }
@@ -423,7 +423,7 @@ nav a.current {
     font-size: 32px;
   }
   body {
-    font-size: 22px;
+    font-size: 20px;
   }
   .wrap {
     padding: 0 30px;
