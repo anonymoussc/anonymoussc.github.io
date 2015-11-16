@@ -44,6 +44,11 @@ Example code hosted at github gist, click on the link bellow to see example code
 34. [AngularJS custom directive staggering animation](http://bl.ocks.org/anonymoussc/6dac76558acaa4a790e6)
 
 
+## References
+
+- "Learning Angularjs Animations" Source code, Richard Keller, Packt Publishing, Limited. Oct 2014. isbn:9781783984428, amazon:1783984422, google:bdgbogEACAAJ 
+
+
 ---
 > Computers don't create computer animation any more than a pencil creates pencil animation. What creates computer animation is the artist. 
 > <small>- [John Lasseter](http://www.brainyquote.com/quotes/quotes/j/johnlasset597738.html)</small>

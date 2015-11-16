@@ -106,6 +106,11 @@ __AngularJS__ code example :
 ### Advanced Directive Features
 
 
+## References
+
+- "Pro AngularJS" source code, Adam Freeman, Apress, Mar 2014. isbn:9781430264484, amazon:1430264489, google:g1bKngEACAAJ
+
+
 ---
 > Everything that we see is a shadow cast by that which we do not see.
 > <small>- [Martin Luther King, Jr](http://www.brainyquote.com/quotes/quotes/m/martinluth115049.html)</small>
