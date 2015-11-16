@@ -1,5 +1,5 @@
 ---
-title:  "AngularJS animation example"
+title:  "AngularJS animation code example"
 date:   2015-07-21 04:28:49
 categories: Software-Engineering AngularJS
 ---
