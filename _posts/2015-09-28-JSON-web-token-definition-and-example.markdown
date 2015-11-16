@@ -9,7 +9,7 @@ cover-image: wire-high-voltage_1024.jpg
 > JSON Web Token (JWT) is a JSON-based open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) for passing claims between parties in web application environment. The tokens are designed to be compact, URL-safe and usable especially in web browser single sign-on (SSO) context.
 > <small>- [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)</small>
 
-In broad terms, there are two kinds of web application, traditional round-trip application and single-page application.
+In broad terms, there are two kinds of web application, traditional round-trip application and single-page application <sup>[1]</sup>.
 
 __1. Round-trip application__
 The browser (client) requests an initial HTML document from the server. User interactions, such as clicking a link or submitting a form led the browser to request and receive a completely new HTML document. 
@@ -74,6 +74,11 @@ Encoded :
 Finally, all part of JWT :
 
     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ
+
+
+## References
+
+1. "Pro AngularJS" source code, Adam Freeman, Apress, Mar 2014. isbn:9781430264484, amazon:1430264489, google:g1bKngEACAAJ
 
 
 ---
