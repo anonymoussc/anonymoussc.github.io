@@ -46,7 +46,7 @@ Example code hosted at github gist, click on the link bellow to see example code
 
 ## References
 
-- "Learning Angularjs Animations" Source code, Richard Keller, Packt Publishing, Limited. Oct 2014. isbn:9781783984428, amazon:1783984422, google:bdgbogEACAAJ 
+1. "Learning Angularjs Animations" Source code, Richard Keller, Packt Publishing, Limited. Oct 2014. isbn:9781783984428, amazon:1783984422, google:bdgbogEACAAJ 
 
 
 ---

@@ -108,7 +108,7 @@ __AngularJS__ code example :
 
 ## References
 
-- "Pro AngularJS" source code, Adam Freeman, Apress, Mar 2014. isbn:9781430264484, amazon:1430264489, google:g1bKngEACAAJ
+1. "Pro AngularJS" source code, Adam Freeman, Apress, Mar 2014. isbn:9781430264484, amazon:1430264489, google:g1bKngEACAAJ
 
 
 ---
