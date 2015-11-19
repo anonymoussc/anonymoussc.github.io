@@ -2,10 +2,9 @@
 title:  "AngularJS live templates"
 date:   2015-11-19 10:51:00
 categories: Software-Engineering AngularJS
-summary: A collection of useful angularJS live templates. Live templates let you insert frequently-used or custom code constructs into source code.
 ---
 
-AngularJS live templates.
+A collection of useful angularJS live templates. Live templates let you insert frequently-used or custom code constructs into source code.
 
 {% gist 697e36eed3644d880eba %}
 
