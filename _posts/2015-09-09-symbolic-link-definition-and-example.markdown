@@ -2,7 +2,7 @@
 title:  "Symbolic link definition and example"
 date:   2015-09-09 22:45:09
 categories: Software-Engineering Symlink
-summary: Symlink definition (wikipedia) and implementation example. 
+summary: In computing, a symbolic link (also symlink or soft link) is a special type of file that contains a reference to another file or directory.
 ---
 
 > In computing, a symbolic link (also symlink or soft link) is a special type of file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution. 

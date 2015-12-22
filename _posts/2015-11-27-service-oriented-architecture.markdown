@@ -2,6 +2,7 @@
 title:  "Service oriented architecture"
 date:   2015-11-27 17:42:00
 categories: Software-Engineering SOA
+summary: SOA-based solutions endeavour to enable business objectives while building an enterprise-quality system.
 ---
 
 A __service-oriented architecture (SOA)__ is an architectural pattern in computer software design in which application components provide services to other components via a communications protocol, typically over a network. The principles of service-orientation are independent of any vendor, product or technology. [wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
