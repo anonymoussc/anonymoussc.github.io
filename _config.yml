@@ -3,7 +3,7 @@ name: anonymoussc
 
 description:
   meta: Nunquam gratia compater est seychelles deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.
-  subtitle: Nunquam gratia compater est seychelles deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.
+  subtitle: I always wanna become a pop singer teen idol.
 
 author:
   name: Anonymoussc
@@ -21,8 +21,8 @@ lang: en
 # APPEREANCE #
 ##############
 
-show-subtitle: false
-display-social-icons: false
+show-subtitle: true
+display-social-icons: true
 footer-text: anonymoussc <50c5ac69@opayq.com>
 # Preferably 64px in height.
 logo-image: # /img/logo.png
@@ -45,7 +45,7 @@ disqus-shortname: x5dceb5ad
 # SOCIAL ICONS #
 ################
 
-twitter:
+twitter: https://twitter.com/anonymousscX
 youtube:
 instagram:
 tumblr:
