@@ -1,7 +1,7 @@
 ---
-title:  "Connecting x/lampp localhost into another pc/laptop"
+title:  "Connecting xampp / mampp localhost into another pc / laptop"
 date:   2016-01-19 03:24:00
-summary: Connecting xampp / lampp localhost (accessible) into another personal computer (PC) / laptop.
+summary: Connecting xampp / mampp localhost (accessible) into another personal computer (PC) / laptop.
 ---
 
 ### Set up a virtual host:
