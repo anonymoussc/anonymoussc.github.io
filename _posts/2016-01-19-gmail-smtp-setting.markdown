@@ -2,6 +2,7 @@
 title:  "Gmail smtp setting"
 date:   2016-01-19 01:09:00
 categories: Notes
+summary: Gmail smtp setting (ssl)
 ---
 
 MAIL_DRIVER=smtp
