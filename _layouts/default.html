@@ -6,9 +6,9 @@
 <body>
 
 {% if page.cover-image %}
-    <div class="cover-image-container">
-        <img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
-    </div>
+<div class="cover-image-container">
+    <img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+</div>
 {% endif %}
 
 <div class="wrap">
@@ -19,7 +19,7 @@
 
     <script>
         $("article").fitVids();
-        $('article p').each(function (i) {
+        $('article p').each(function(i) {
             if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
                 $(this).addClass('img-only');
             }
