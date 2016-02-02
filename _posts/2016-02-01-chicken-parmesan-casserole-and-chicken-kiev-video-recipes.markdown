@@ -1,6 +1,6 @@
 ---
 title:  "Chicken parmesan casserole & chicken kiev  video recipes"
-date:   2016-02-02 07:56:00
+date:   2016-02-01 07:56:00
 summary: 1. Chicken Parmesan Casserole 2012 - Easy Chicken Parm Bake. 2. Chicken Kiev - Crispy Chicken Breast Stuffed with Garlic Butter Sauce - How to Make Chicken Kiev.
 ---
 
