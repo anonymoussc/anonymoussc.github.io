@@ -20,12 +20,14 @@ Add the following line at the end of the file :
 
 ### Configure your hosts file
 Location of the file :
-{% highlight bash %}
+
 - MAC : `/private/etc/hosts`.
+
 - LINUX : `/etc/hosts`.
+
 - WINDOWS : `\Windows\system32\private\etc\hosts`.
+
 - WINDOWS 7 : `\Windows\system32\drivers\etc\hosts`.
-{% endhighlight %}
 
 Add the following line at the end of the file :
 
