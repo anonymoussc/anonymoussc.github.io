@@ -2,9 +2,10 @@
 title:  "Create permanent bash alias in Ubuntu"
 date:   2015-09-20 04:54:00
 categories: Notes
+summary: How to create those ^ in the title.
 ---
 
-1. create _.bash_aliases_ file in `~/` (home directory).
+1. Create _.bash_aliases_ file in `~/` (home directory).
 2. To see hidden file in `~/` :  
     a. Nautillus file manager can use `ctrl + h` keyboard shorcut.   
     b. Dolphin file manager can use `alt + .`.

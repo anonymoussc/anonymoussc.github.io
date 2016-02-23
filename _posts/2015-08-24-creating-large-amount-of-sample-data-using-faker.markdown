@@ -2,6 +2,7 @@
 title:  "Creating large amounts of sample data using Faker"
 date:   2015-08-24 21:00:35
 categories: Software-Engineering Laravel
+summary: Require Laravel 5.1. Faker package is included by default in require-dev composer.json as of laravel 5.1.
 ---
 
 Require __Laravel 5.1__.

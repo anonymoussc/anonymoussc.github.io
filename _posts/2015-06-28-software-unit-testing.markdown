@@ -2,6 +2,7 @@
 title:  "Software unit testing"
 date:   2015-06-28 15:03:39
 categories: Software-Engineering Notes
+summary: The idea behind unit testing is to test the functionality of a piece of code in isolation.
 ---
 
 _The idea behind unit testing is to test the functionality of a piece of code in isolation._

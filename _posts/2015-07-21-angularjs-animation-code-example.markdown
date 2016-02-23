@@ -2,6 +2,7 @@
 title:  "AngularJS animation code example"
 date:   2015-07-21 04:28:49
 categories: Software-Engineering AngularJS
+summary: Animation, by definition, is the process of creating a continuous motion over a period of time.
 ---
 
 Animation, by definition, is the process of creating a continuous motion over a period of time. 

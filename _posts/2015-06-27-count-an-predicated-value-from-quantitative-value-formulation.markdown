@@ -2,6 +2,7 @@
 title:  "Count an predicated value from quantitative value formulation"
 date:   2015-06-27 20:03:35
 categories: Notes
+summary: Simple formula used in LibreOffice calc to count an predicated value from quantitative value formulation.
 ---
 
 Simple formula used in LibreOffice calc.

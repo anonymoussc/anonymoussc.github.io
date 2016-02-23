@@ -2,6 +2,7 @@
 title:  "Insert record into database using Tinker"
 date:   2015-08-24 16:55:32
 categories: Software-Engineering Laravel
+summary: Using laravel 5.1 we can accessing tinker. Create a model using artisan.
 ---
 
 Using laravel 5.1 we can accessing tinker. Create a model using artisan : 

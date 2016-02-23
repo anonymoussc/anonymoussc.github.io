@@ -47,7 +47,7 @@ Refer to the Configure your hosts file section. Add the following line at the en
 000.000.0.0         someName.whatever
 {% endhighlight %}
 
-Change the `000.000.0.0` into ip address value based on the IP address of the computer hosting the website. Using laravel framework type : `sudo php artisan serve --host 0.0.0.0 --port 80`.
+Change the `000.000.0.0` into ip address value based on the IP address of the computer hosting the website. Run `sudo php artisan serve --host 0.0.0.0 --port 80` from artisan (laravel).
 Check at [http://someName.whatever](http://someName.whatever).
 
 

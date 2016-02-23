@@ -2,6 +2,7 @@
 title:  "Gulpfile base example"
 date:   2015-08-09 15:06:42
 categories: Software-Engineering Gulp
+summary: Common task using gulp (base example).
 ---
 
 Bellow are gulpfile example for common task such as concatenate, minification, uglify, css prepocessor, image cache, starting local server, error handle etc.
