@@ -3,6 +3,7 @@ title:  "Installing Gulp-4-alpha"
 date:   2015-05-02 06:09:02
 categories: Software-Engineering Gulp
 summary: Installing gulp-4-alpha (through CLI).
+cover-image: art-voda_1024.jpg
 ---
 
 Gulp 4 hasn't officialy release at this time of writing. To installed, open terminal /CLI /cmd, etn.
