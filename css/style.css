@@ -136,14 +136,14 @@ h1 {
 
 h2 {
     font-size     : 1.5em;
-    margin-top    : 40px;
-    margin-bottom : 30px;
+    margin-top    : 20px;
+    margin-bottom : -20px;
 }
 
 h3, h4, h5, h6 {
     font-size     : 1.05em;
-    margin-top    : 40px;
-    margin-bottom : 30px;
+    margin-top    : 20px;
+    margin-bottom : -20px;
 }
 
 .meta {
@@ -545,13 +545,13 @@ nav a.current {
 
     h2 {
         font-size     : 1.8em;
-        margin-top    : 40px;
+        margin-top    : 25px;
         margin-bottom : -10px;
     }
 
     h3, h4, h5, h6 {
         font-size     : 1.2em;
-        margin-top    : 40px;
+        margin-top    : 25px;
         margin-bottom : -10px;
     }
 
