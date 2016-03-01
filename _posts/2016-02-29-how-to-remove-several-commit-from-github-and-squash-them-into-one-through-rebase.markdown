@@ -1,5 +1,5 @@
 ---
-title:  "How to remove a commit from github and squash them into one through rebase"
+title:  "How to remove several commit from github and squash them into one through rebase"
 date:   2016-02-29 18:02:00
 summary: In Git there are two main ways to integrate changes from one branch into another, the merge and the rebase.
 cover-image: pirozhnoe-sladost-zhele_1024.jpg
