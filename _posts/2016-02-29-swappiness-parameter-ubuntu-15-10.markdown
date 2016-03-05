@@ -2,7 +2,7 @@
 title:  "Swappines parameter (Ubuntu 15.10)"
 date:   2016-02-29 01:58:00
 summary: The swappiness parameter controls the tendency of the kernel to move processes out of physical memory and onto the swap disk.
-cover-image: pole-zima-sneg_1024.jpg
+cover-image: minion-lenses-attitude-uniform_1024.jpg
 ---
 
 The swappiness parameter controls the tendency of the kernel to move processes out of physical memory and onto the swap disk. Because disks are much slower than RAM, this can lead to slower response times for system and applications if processes are too aggressively moved out of memory.
