@@ -14,6 +14,7 @@ Rated __9.2/10__.
 #### Reference : 
 - [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
 - [Shingeki no Kyojin Wiki - Wikia](http://shingekinokyojin.wikia.com/wiki/Shingeki_no_Kyojin_Wiki)
+- [Top 10 Anime Worlds We're Glad Aren't Real](https://www.youtube.com/watch?v=Z39IB5oKylY)
 
 
 ---
