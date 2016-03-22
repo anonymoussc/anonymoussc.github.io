@@ -14,5 +14,5 @@ summary: 1. Honey Sriracha Chicken Wings and the Secret to Crispy Baked Wings. 2
 
 
 ---
-> Television is simply automated daydreaming.
-> <small>- [Lee Loevinger](http://www.brainyquote.com/quotes/quotes/l/leeloeving162532.html)</small>
+> So in our pride we ordered for breakfast an omelet, toast and coffee and what has just arrived is a tomato salad with onions, a dish of pickles, a big slice of watermelon and two bottles of cream soda.
+> <small>- [John Steinbeck](http://www.brainyquote.com/quotes/quotes/j/johnsteinb114027.html)</small>
