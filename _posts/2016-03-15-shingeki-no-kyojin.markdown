@@ -18,5 +18,5 @@ Rated __9.2/10__.
 
 
 ---
-> Television is simply automated daydreaming.
-> <small>- [Lee Loevinger](http://www.brainyquote.com/quotes/quotes/l/leeloeving162532.html)</small>
+> Cowards die many times before their deaths; the valiant never taste of death but once.
+> <small>- [William Shakespeare](http://www.brainyquote.com/quotes/quotes/w/williamsha104447.html)</small>
