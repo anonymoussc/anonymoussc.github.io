@@ -22,64 +22,66 @@ Status codes are three digit codes paired with a phrase explaining whether or no
 #### Informational (100)
 These indicate a provisional response. They are not supported by HTTP/1.0, because that version of the protocol did not define 1xx codes.
 
-•	 100 Continue
-•	 101 Switching Protocols
+- 100 Continue
+- 101 Switching Protocols
 
 #### Success (200)
 A 2xx code indicates the server successfully received, understood, and accepted the client request.
 
-•	 200 OK
-•	 201 Created
-•	 202 Accepted
-•	 203 Non-Authoritative Information
-•	 204 No Content
-•	 205 Reset Content
-•	 206 Partial Content
+- 200 OK
+- 201 Created
+- 202 Accepted
+- 203 Non-Authoritative Information
+- 204 No Content
+- 205 Reset Content
+- 206 Partial Content
 
 #### Redirection (300)
 Servers use this class of code to indicate to a client further action needs to be taken to fulfill the original request.
 
-•	 300 Multiple Choices
-•	 301 Moved Permanently
-•	 302 Found
-•	 303 See Other
-•	 304 Not Modified
-•	 305 Use Proxy
-•	 307 Temporary Redirect
+- 300 Multiple Choices
+- 301 Moved Permanently
+- 302 Found
+- 303 See Other
+- 304 Not Modified
+- 305 Use Proxy
+- 307 Temporary Redirect
 
 #### Client Error (400)
 This set of status codes are meant to indicate the client made some sort of error in their request, such as being malformed or not allowed.
 
-•	 400 Bad Request
-•	 401 Unauthorized
-•	 402 Payment Required
-•	 403 Forbidden
-•	 404 Not Found
-•	 405 Method Not Allowed
-•	 406 Not Acceptable
-•	 407 Proxy Authentication Required
-•	 408 Request Time-out
-•	 409 Conflict
-•	 410 Gone
-•	 411 Length Required
-•	 412 Precondition Failed
-•	 413 Request Entity Too Large
-•	 414 Request-URI Too Large
-•	 415 Unsupported Media Type
-•	 416 Requested Range Not Satisfiable
-•	 417 Expectation Failed
+- 400 Bad Request
+- 401 Unauthorized
+- 402 Payment Required
+- 403 Forbidden
+- 404 Not Found
+- 405 Method Not Allowed
+- 406 Not Acceptable
+- 407 Proxy Authentication Required
+- 408 Request Time-out
+- 409 Conflict
+- 410 Gone
+- 411 Length Required
+- 412 Precondition Failed
+- 413 Request Entity Too Large
+- 414 Request-URI Too Large
+- 415 Unsupported Media Type
+- 416 Requested Range Not Satisfiable
+- 417 Expectation Failed
 
 #### Server Error (500)
 A complement to 400 level errors, this status code indicates the server encountered some unexpected condition and could not fulfill the client’s request.
-•	 500 Internal Server Error
-•	 501 Not Implemented
-•	 502 Bad Gateway
-•	 503 Service Unavailable
-•	 504 Gateway Time-out
-•	 505 HTTP Version not supported
+
+- 500 Internal Server Error
+- 501 Not Implemented
+- 502 Bad Gateway
+- 503 Service Unavailable
+- 504 Gateway Time-out
+- 505 HTTP Version not supported
 
 
-Reference : 
+Reference :
+
 1. [Using HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
 2. Frost, Matthew. Integrating Web Services with OAuth and PHP. Alexandria: musketeers.me, LLC. 2016.
 
