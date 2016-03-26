@@ -4,16 +4,16 @@ date:   2016-03-24 08:05:00
 summary: Splitting up data into multiple HTTP requests, for limiting HTTP Response size.
 ---
 
-Require laravel >= v5.1.
-
 ### Pagination, what for ?
 Splitting up data into multiple HTTP requests, for limiting HTTP Response size.
 
 ### The reason ?
 
 1. Downloading more takes longer.
-2. Trying to return big data of 1000,000 into infinity records in one go might takes longer into eternity.
-3. "Presentation logic iterating over 1000,000 into infinity records is fun" - Nobody, ever.
+2. Trying to return big data of 1000,000 into infinity records and beyond in one go might takes longer than eternity.
+3. "Presentation logic iterating over 1000,000 and unlimited number of records is fun" - Nobody, ever.
+
+Code specific example bellow require laravel > v5.0.
 
 ### Example 1 using cursor with fractal
 
