@@ -1,8 +1,10 @@
 ---
-title:  "API response pagination"
+title:  "Json response pagination"
 date:   2016-03-24 08:05:00
 summary: Splitting up data into multiple HTTP requests, for limiting HTTP Response size.
 ---
+
+Require laravel >= v5.1.
 
 ### Pagination, what for ?
 Splitting up data into multiple HTTP requests, for limiting HTTP Response size.
