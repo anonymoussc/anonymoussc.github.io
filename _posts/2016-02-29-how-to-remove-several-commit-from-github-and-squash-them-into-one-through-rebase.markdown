@@ -84,7 +84,8 @@ s 738s56h ok
 # Note that empty commits are commented out
 {% endhighlight %}
 
-Save (CTRL + S) the file and exit. Git may be asked to change the commit message, simply delete the last two and keep the one that will be pick.
+Save _(CTRL + x)_ the file and exit, next question, then choose _yes / no_ and push `enter` to confirm. Next Git will asked you to change the commit message, simply delete the last two and keep the one that will be pick, and again; save _(CTRL + x)_ the file and exit, next question, choose _yes / no_ and push `enter` to confirm.
+
 Push the change into remote repository.
 
 
