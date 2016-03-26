@@ -15,17 +15,17 @@ The primary or most-commonly-used HTTP verbs (or methods) are POST, GET, PUT, PA
 3. PUT: The PUT verb is used as a method to update an existing resource on the server.
 4. DELETE: remove a resource from the server.
 
-### Http Status Codes
+### 1. Http Status Codes
 
 Status codes are three digit codes paired with a phrase explaining whether or not the status completed successfully. By looking at the first digit a user can tell whether the response is providing information (100); was successful (200); has been redirected (300); there was an error in the request (400); or there was an error on the server (500).
 
-#### Informational (100)
+#### 2. Informational (100)
 These indicate a provisional response. They are not supported by HTTP/1.0, because that version of the protocol did not define 1xx codes.
 
 - 100 Continue
 - 101 Switching Protocols
 
-#### Success (200)
+#### 3. Success (200)
 A 2xx code indicates the server successfully received, understood, and accepted the client request.
 
 - 200 OK
@@ -36,7 +36,7 @@ A 2xx code indicates the server successfully received, understood, and accepted 
 - 205 Reset Content
 - 206 Partial Content
 
-#### Redirection (300)
+#### 4. Redirection (300)
 Servers use this class of code to indicate to a client further action needs to be taken to fulfill the original request.
 
 - 300 Multiple Choices
@@ -47,7 +47,7 @@ Servers use this class of code to indicate to a client further action needs to b
 - 305 Use Proxy
 - 307 Temporary Redirect
 
-#### Client Error (400)
+#### 5. Client Error (400)
 This set of status codes are meant to indicate the client made some sort of error in their request, such as being malformed or not allowed.
 
 - 400 Bad Request
@@ -69,7 +69,7 @@ This set of status codes are meant to indicate the client made some sort of erro
 - 416 Requested Range Not Satisfiable
 - 417 Expectation Failed
 
-#### Server Error (500)
+#### 6. Server Error (500)
 A complement to 400 level errors, this status code indicates the server encountered some unexpected condition and could not fulfill the client’s request.
 
 - 500 Internal Server Error
