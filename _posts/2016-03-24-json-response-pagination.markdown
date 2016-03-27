@@ -9,9 +9,8 @@ Splitting up data into multiple HTTP requests, for limiting HTTP Response size.
 
 ### The reason ?
 
-1. Downloading more takes longer.
-2. Trying to return big data of 1000,000 into infinity records and beyond in one go might takes longer than eternity.
-3. "Presentation logic iterating over 1000,000 and unlimited number of records is fun" - Nobody, ever.
+1. Trying to return 1000,000 into infinity records and beyond in one request - respond might takes forever.
+2. Presentation logic iterating over 1000,000 and unlimited number of records was trouble.
 
 Code specific example bellow require laravel > v5.0.
 
