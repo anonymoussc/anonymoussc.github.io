@@ -1,10 +1,10 @@
 ---
 title:  "Json response format"
 date:   2016-03-25 08:00:00
-summary: List of standard or specification json response format.
+summary: List of standard / specification, json response format.
 ---
 
-List of standard or specification json response format :
+List of standard / specification, json response format :
 
 1. [JSON API](http://jsonapi.org/)
 2. [JSend](http://labs.omniti.com/labs/jsend)
