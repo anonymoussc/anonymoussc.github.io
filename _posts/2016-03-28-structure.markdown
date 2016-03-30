@@ -16,7 +16,7 @@ Directory structure or type of package, distributed through composer (at develop
 
 Components can act as a single responsibility package, but also capable to became full blown application by itself, example cms, accounting information system, geographical information system etc. Service components are recommended to respect single responsibility principle, for code reusability reason. Above architecture was scalable, if wasnt enough :
 
-6. Enterprise - more than one business process layer tied together, enterprise will became bridge between business process layer and operational system.
+6.Enterprise - more than one business process layer tied together, enterprise will became bridge between business process layer and operational system.
 
 ## css framework
 
