@@ -1,6 +1,7 @@
 ---
 title:  "Generator"
 date:   2016-03-28 04:00:00
+summary: generator generate.
 ---
 
 ### Intro

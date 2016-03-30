@@ -1,13 +1,9 @@
 ---
 title:  "thanks"
 date:   2016-03-28 07:00:00
+summary: Component Based Architecture and many more.
 ---
 
-Component Based Architecture and many more..
+Component Based Architecture and many more.
 
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
-</span>
-
-<div class="icontain"><iframe src="//www.youtube.com/embed/0JVUaHJcZp4" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JVUaHJcZp4" frameborder="0" allowfullscreen></iframe>
