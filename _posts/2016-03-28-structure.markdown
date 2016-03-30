@@ -1,5 +1,5 @@
 ---
-title:  "structure"
+title:  "Structure"
 date:   2016-03-28 05:00:00
 summary: Directory structure, css framework, interoperability.
 ---

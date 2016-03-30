@@ -1,5 +1,5 @@
 ---
-title:  "thanks"
+title:  "Thanks"
 date:   2016-03-28 07:00:00
 summary: Component Based Architecture and many more.
 ---
