@@ -1,6 +1,0 @@
----
-title:  "Intro"
-date:   2016-03-28 01:00:00
----
-
-### Project onsigbaar - Framework and Application
