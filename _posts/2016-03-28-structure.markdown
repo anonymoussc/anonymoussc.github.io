@@ -26,5 +26,5 @@ All
 
 By cast aside the NIH (Never Invented Here) syndrome.
 
-More than 250.000.00 package strong (packalyst, packagist, ngmodules, npm, bower). Browserify can be used to bring NodeJS server side package to be able to be used on the client side.
+More than 250.000 package strong (packalyst, packagist, ngmodules, npm, bower). Browserify can be used to bring NodeJS server side package to be able to be used on the client side.
 
