@@ -1,6 +1,6 @@
 ---
 title:  "Gintama"
-date:   2015-03-26 15:00:00
+date:   2016-03-26 15:00:00
 summary: Gin Tama (Japanese - 銀魂 Hepburn - Gintama, lit. "Silver Soul"), also styled as Gintama, is a Japanese manga written and illustrated by Hideaki Sorachi.
 cover-image: gintama_00363282_1024.jpg
 ---
