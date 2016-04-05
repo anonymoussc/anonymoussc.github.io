@@ -1,0 +1,12 @@
+---
+title:  "Adiemus - videos"
+date:   2016-04-06 01:39:00
+summary: 1. Adiemus from the album Songs of Sanctuary composer by Karl Jenkins, singer Miriam Stockley, & the dancer Anastasia Volochkova.
+---
+
+The song is Adiemus, the album is Songs of Sanctuary, the composer is Karl Jenkins, the singer is Miriam Stockley, and the dancer is Anastasia Volochkova.
+
+### Adiemus.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1j9AdBRHM4" frameborder="0" allowfullscreen></iframe>
+
