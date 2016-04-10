@@ -1,7 +1,6 @@
 ---
 title:  "Shingeki No Kyojin"
 date:   2016-03-15 23:45:00
-categories: Videos
 summary: Shingeki No Kyojin a.k.a Attack On Titan is a Japanese manga series written and illustrated by Hajime Isayama.
 cover-image: 519209_1024.jpg
 ---
@@ -16,6 +15,9 @@ Rated __9.2/10__.
 - [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
 - [Shingeki no Kyojin Wiki - Wikia](http://shingekinokyojin.wikia.com/wiki/Shingeki_no_Kyojin_Wiki)
 - [Top 10 Anime Worlds We're Glad Aren't Real](https://www.youtube.com/watch?v=Z39IB5oKylY)
+- [Watch Shingeki no Kyojin English Dub & Sub in HD 1080p](http://shingekinokyojin.me)
+- [Read Shingeki No Kyojin Manga Online](http://unixmanga.nl/onlinereading/Shingeki_no_Kyojin.html)
+- [archnime: Shingeki no Kyojin](http://www.archnime.com/2013/04/shingeki-no-kyojin.html)
 
 
 ---
