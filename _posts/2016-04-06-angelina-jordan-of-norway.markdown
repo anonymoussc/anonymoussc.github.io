@@ -2,7 +2,7 @@
 title:  "Angelina Jordan of Norway - videos"
 date:   2016-04-06 02:39:00
 categories: Videos
-summary: 1. Amazing seven year old sings Fly Me To The Moon (Angelina Jordan) on Senkveld "The Late Show". 2. Amazing seven year old sings Gloomy Sunday/Billy Holiday (Angelina Jordan) Eng sub.
+summary: 1. Amazing seven year old sings Fly Me To The Moon (Angelina Jordan) on Senkveld "The Late Show". 2. Amazing seven year old sings Gloomy Sunday/Billy Holiday (Angelina Jordan) Eng sub. 3. Angelina Jordan - sings 7 songs.
 ---
 
 ### Amazing seven year old sings Fly Me To The Moon (Angelina Jordan) on Senkveld "The Late Show".
@@ -12,4 +12,8 @@ summary: 1. Amazing seven year old sings Fly Me To The Moon (Angelina Jordan) on
 ### Amazing seven year old sings Gloomy Sunday/Billy Holiday (Angelina Jordan) Eng sub.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2da7N6ADm9s" frameborder="0" allowfullscreen></iframe>
+
+### Angelina Jordan - sings 7 songs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RI5Rov3OOZ0" frameborder="0" allowfullscreen></iframe>
 
