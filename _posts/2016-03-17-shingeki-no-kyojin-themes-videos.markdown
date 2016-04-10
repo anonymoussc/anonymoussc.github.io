@@ -1,5 +1,5 @@
 ---
-title:  "Shingeki no kyojin theme (guren no yumiya) - violin - Taylor Davis"
+title:  "Shingeki no kyojin themes - videos"
 date:   2016-03-17 21:34:00
 categories: Videos
 summary: 1. Attack on Titan Theme (Guren no Yumiya) - Violin - Taylor Davis. 2. "Guren No Yumiyah" - Linked Horizon. 3. Shingeki no Kyojin - Attack on Titan Fight Theme.
@@ -16,6 +16,14 @@ summary: 1. Attack on Titan Theme (Guren no Yumiya) - Violin - Taylor Davis. 2. 
 ### Shingeki no Kyojin - Attack on Titan Fight Theme.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQUsnto_3pw" frameborder="0" allowfullscreen></iframe>
+
+### Attack on Titan (Shingeki no Kyojin) Op 1 Meets Metal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVO-iK2aTK4" frameborder="0" allowfullscreen></iframe>
+
+### Shingeki no Kyojin (Attack On Titan) 進撃の巨人 Opening - Guren no Yumiya (Violin Cover).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H70sdEQl0i4" frameborder="0" allowfullscreen></iframe>
 
 
 ---
