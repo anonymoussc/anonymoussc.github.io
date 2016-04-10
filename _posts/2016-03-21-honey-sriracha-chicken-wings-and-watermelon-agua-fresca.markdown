@@ -1,6 +1,7 @@
 ---
 title:  "Honey sriracha chicken wings & watermelon agua fresca"
 date:   2016-03-21 06:05:00
+categories: Videos
 summary: 1. Honey Sriracha Chicken Wings and the Secret to Crispy Baked Wings. 2. Watermelon Agua Fresca - Refreshing Summer Watermelon Drink.
 ---
 

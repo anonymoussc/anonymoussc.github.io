@@ -1,6 +1,7 @@
 ---
 title:  "Careless whisper, He's a Pirate & Senbonzakura - videos"
 date:   2016-03-25 09:00:00
+categories: Videos
 summary: 1. Careless Whisper - Vintage 1930's Jazz Wham! Cover ft. Dave Koz. 2. He's a Pirate (Disney's Pirates of the Caribbean Theme) Violin Cover - Taylor Davis. 3. Senbonzakura - cover by Lindsey Stirling.
 ---
 

@@ -1,6 +1,7 @@
 ---
 title:  "Shingeki No Kyojin"
 date:   2016-03-15 23:45:00
+categories: Videos
 summary: Shingeki No Kyojin a.k.a Attack On Titan is a Japanese manga series written and illustrated by Hajime Isayama.
 cover-image: 519209_1024.jpg
 ---

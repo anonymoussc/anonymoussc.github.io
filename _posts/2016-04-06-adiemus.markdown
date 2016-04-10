@@ -1,6 +1,7 @@
 ---
 title:  "Adiemus - videos"
 date:   2016-04-06 01:39:00
+categories: Videos
 summary: 1. Adiemus. 2. Brucia La Terra
 ---
 

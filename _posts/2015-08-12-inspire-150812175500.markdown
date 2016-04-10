@@ -1,7 +1,7 @@
 ---
 title:  "Inspire id#150812175500"
 date:   2015-08-12 17:55:00
-categories: Inspire
+categories: Inspire Videos
 summary: Inspirational quote and videos.
 ---
 
