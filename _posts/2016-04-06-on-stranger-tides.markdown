@@ -2,7 +2,7 @@
 title:  "On Stranger Tides - videos"
 date:   2016-04-06 01:39:00
 categories: Videos
-summary: 1. Adiemus. 2. Brucia La Terra. 3. My Jolly Sailor Bold - On Stranger Tides.
+summary: 1. Adiemus. 2. My Jolly Sailor Bold - On Stranger Tides. 3. Brucia La Terra.
 ---
 
 Adiemus from the album Songs of Sanctuary composer by Karl Jenkins, singer Miriam Stockley, & the dancer (video) Anastasia Volochkova.
