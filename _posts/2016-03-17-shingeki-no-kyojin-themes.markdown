@@ -25,6 +25,10 @@ summary: 1. Attack on Titan Theme (Guren no Yumiya) - Violin - Taylor Davis. 2. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H70sdEQl0i4" frameborder="0" allowfullscreen></iframe>
 
+### Shingeki no Kyojin 進撃の巨人 ED / Ending - "Utsukushiki Zankoku na Sekai" - Yoko Hikasa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWUCdTngVjk" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 > Evil hiding among us is an ancient theme.
