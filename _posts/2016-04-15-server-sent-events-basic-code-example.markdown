@@ -1,6 +1,6 @@
 ---
 title:  "Server Sent Events basic code example"
-date:   2016-04-16 18:55:00
+date:   2016-04-15 18:55:00
 summary: Server-sent events (SSE) basic code example.
 ---
 
