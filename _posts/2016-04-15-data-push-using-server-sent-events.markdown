@@ -15,11 +15,11 @@ Server-sent events (SSE) is a technology where a browser receives automatic upda
 
 - first.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse2/first.html?footer=0"></script>
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse2/first.html?footer=minimal"></script>
 
 - first.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse2/first.php?footer=0"></script>
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse2/first.php?footer=minimal"></script>
 
 
 Reference :
