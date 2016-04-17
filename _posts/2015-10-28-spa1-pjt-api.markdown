@@ -1,0 +1,173 @@
+---
+title:  "SPA1 Pjt - API"
+date:   2015-10-28 06:00:00
+summary: Authentication, API respond, & restangular.
+---
+
+## Authentication
+
+Authentication support : 
+
+1. HTTP Basic
+2. JWT Auth (Implemented in the application + User - Group ACL)
+3. OAuth2
+
+## API Response
+
+Using modified JSend format. The implementation by using response macro (laravel).
+
+{% highlight PHP %}
+
+//... ServiceProvider
+
+public function boot()
+{
+    Response::macro('success', function (array $data = [], $message = 'success') {
+        return Response::json([
+            'status' => [
+                'error'   => false,
+                'message' => $message,
+            ],
+            'data'   => $data,
+        ]);
+    });
+
+    Response::macro('error', function ($message = 'error', $statusCode = 400) {
+        return Response::json([
+            'status'  => [
+                'success'     => false,
+                'message'     => $message,
+                'status_code' => $statusCode,
+            ],
+            'message' => 'Error ' . $statusCode . ' : ' . $message,
+        ]);
+    });
+
+    Response::macro('fail', function ($message = 'fail', $statusCode = 400, array $data = null) {
+        return Response::json([
+            'status'  => [
+                'success'     => false,
+                'error'       => true,
+                'message'     => $message,
+                'status_code' => $statusCode,
+            ],
+            'message' => 'Error ' . $statusCode . ' : ' . $message,
+            'data'    => $data,
+        ]);
+    });
+
+}
+{% endhighlight %}
+
+How to used example : `return response()->success([$data])`
+
+## Restangular (Front end)
+
+API Configurer : 
+
+{% highlight JavaScript %}
+
+/**
+ * API.service.js
+ * Modified by anonymous on 04/01/16 1:19.
+ */
+
+(function() {
+    'use strict';
+
+    angular
+        .module('appFoundation')
+        .factory('API', API);
+
+    API.$inject = ['Restangular', 'Toast', '$localStorage'];
+
+    /* @ngInject */
+    function API(Restangular, Toast, $localStorage) {
+
+        //content negotiation
+        var
+            headers = {
+                'Content-Type': 'application/json',
+                'Accept'      : 'application/x.onsigbaar.v1+json'
+            },
+            service = serviceFn();
+
+        return service;
+
+        ////////////////
+
+        function serviceFn() {
+
+            return Restangular.withConfig(function(RestangularConfigurer) {
+
+                RestangularConfigurer
+                    .setBaseUrl('/api/')
+                    .setDefaultHeaders(headers)
+                    .setErrorInterceptor(function(response) {
+
+                        if (response.status === 422) {
+                            for (var error in response.data.errors) {
+                                return Toast.error(response.data.errors[error][0]);
+                            }
+                        }
+
+                    })
+                    .addFullRequestInterceptor(function(element, operation, what, url, headers) {
+
+                        if ($localStorage.onsigbaar_token) {
+                            headers.Authorization = 'Bearer ' + $localStorage.onsigbaar_token;
+                        }
+
+                    })
+                    .addResponseInterceptor(function(data, operation, what, url, response, deferred) {
+
+                        var extractedData;
+                        // look for getList operations
+                        if (operation === 'getList') {
+                            // handle the data and meta data
+                            extractedData = data.data;
+                            // extractedData.meta = data.data.meta;
+                        } else {
+                            extractedData = data;
+                        }
+
+                        return extractedData;
+
+                    })
+                    .setMethodOverriders(['put', 'patch', 'delete']);
+
+            });
+
+        }
+
+    }
+
+})();
+
+{% endhighlight %}
+
+How to used example : `API.all('groups').post(vm.formData)`
+
+### Example handle CRUD operations in a List returned by Restangular?
+
+{% highlight JavaScript %}
+// From restangular doc
+
+// Here we use then to resolve the promise.
+Restangular.all('users').getList().then(function(users) {
+  $scope.users = users;
+  var userWithId = _.find(users, function(user) {
+    return user.id === 123;
+  });
+
+  userWithId.name = "Gonto";
+  userWithId.put();
+
+  // Alternatively delete the element from the list when finished
+  userWithId.remove().then(function() {
+    // Updating the list and removing the user after the response is OK.
+    $scope.users = _.without($scope.users, userWithId);
+  });
+
+});
+{% endhighlight %}

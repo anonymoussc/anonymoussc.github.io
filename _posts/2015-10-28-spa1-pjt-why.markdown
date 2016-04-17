@@ -1,0 +1,18 @@
+---
+title:  "SPA1 Pjt - Why"
+date:   2015-10-28 02:00:00
+summary: Goal and performance.
+---
+
+### Project onsigbaar - Framework and Application
+
+### Goal
+
+1. Fast s/e development - to this end generator was the 'life blood' of the development framework.
+2. Fast WebApps / Single Page Application
+3. Developer health & happiness
+
+#### Performance (deployment)
+
+- Activate laravel route caching.
+- Appcache (html5) - Application available when offline
