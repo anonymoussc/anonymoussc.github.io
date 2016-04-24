@@ -47,6 +47,18 @@ fxclient3.ms.html
 
 <script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient3.ms.html?footer=minimal"></script>
 
+### 4. SSE fx repeatable with datestamp code example
+
+{: .center-text}
+fxpair4.ms.php
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair4.ms.php?footer=minimal"></script>
+
+{: .center-text}
+fxserver4.datestamp.php
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver4.datestamp.php?footer=minimal"></script>
+
 
 Reference :
 
