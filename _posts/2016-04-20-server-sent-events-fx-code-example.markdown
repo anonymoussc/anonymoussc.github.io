@@ -33,19 +33,19 @@ fxserver2.php
 ### 3. SSE fx ms code example
 
 {: .center-text}
-fxpair.ms.php
+fxpair3.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair.ms.php?footer=minimal"></script>
-
-{: .center-text}
-fxserver.ms.php
-
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver.ms.php?footer=minimal"></script>
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair3.ms.php?footer=minimal"></script>
 
 {: .center-text}
-fxclient.first.ms.html
+fxserver3.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient.first.ms.html?footer=minimal"></script>
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver3.ms.php?footer=minimal"></script>
+
+{: .center-text}
+fxclient3.ms.html
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient3.ms.html?footer=minimal"></script>
 
 
 Reference :
@@ -56,5 +56,5 @@ Reference :
 
 
 ---
-> Every right implies a responsibility; Every opportunity, an obligation, Every possession, a duty.
-> <small>- [John D. Rockefeller](http://www.brainyquote.com/quotes/quotes/j/johndrock147463.html)</small>
+> Quality is never an accident. It is always the result of intelligent effort.
+> <small>- [John Ruskin](http://www.brainyquote.com/quotes/quotes/j/johnruskin130005.html)</small>
