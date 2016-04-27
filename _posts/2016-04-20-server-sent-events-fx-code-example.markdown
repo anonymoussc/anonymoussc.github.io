@@ -60,6 +60,34 @@ fxserver4.datestamp.php
 <script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver4.datestamp.php?footer=minimal"></script>
 
 
+### 4. SSE fx push further beyond code example
+
+{: .center-text}
+fxpair5.ms.php
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair5.ms.php?footer=minimal"></script>
+
+{: .center-text}
+fxserver5.adjusting.php
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting.php?footer=minimal"></script>
+
+{: .center-text}
+fxserver5.adjusting_datestamp.php
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting_datestamp.php?footer=minimal"></script>
+
+{: .center-text}
+fxclient5.adjusting.html
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting.html?footer=minimal"></script>
+
+{: .center-text}
+fxclient5.adjusting_ds.html
+
+<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting_ds.html?footer=minimal"></script>
+
+
 Reference :
 
 1. [Wikipedia](https://en.wikipedia.org/wiki/Server-sent_events)
