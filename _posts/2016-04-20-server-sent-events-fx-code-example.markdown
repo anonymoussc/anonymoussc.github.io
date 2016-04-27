@@ -60,7 +60,7 @@ fxserver4.datestamp.php
 <script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver4.datestamp.php?footer=minimal"></script>
 
 
-### 4. SSE fx push further beyond code example
+### 5. SSE fx push further beyond code example
 
 {: .center-text}
 fxpair5.ms.php
