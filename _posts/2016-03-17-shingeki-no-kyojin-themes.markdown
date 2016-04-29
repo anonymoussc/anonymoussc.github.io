@@ -9,6 +9,10 @@ summary: 1. Attack on Titan Theme (Guren no Yumiya) - Violin - Taylor Davis. 2. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpLGU8k13Jc" frameborder="0" allowfullscreen></iframe>
 
+### "Jiyuu No Tsubasa" - Linked Horizon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EO8EadQNIXU" frameborder="0" allowfullscreen></iframe>
+
 ### "Guren No Yumiyah" - Linked Horizon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsJttMfPhGo" frameborder="0" allowfullscreen></iframe>
