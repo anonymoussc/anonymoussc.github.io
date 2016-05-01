@@ -1,6 +1,7 @@
 ---
 title:  "Server Sent Events fx code example"
 date:   2016-04-20 00:17:00
+categories: SSE
 summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code example.
 ---
 
@@ -89,9 +90,11 @@ fxclient5.adjusting_ds.html
 
 Reference :
 
-1. [Wikipedia](https://en.wikipedia.org/wiki/Server-sent_events)
+1. [Server-sent events - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 
 2. Data Push Apps With HTML5 SSE: Pragmatic Solutions for Real-World Clients, Darren Cook, O'Reilly Media, Mar 2014. isbn:9781430264484, isbn:9781449371937, amazon:1449371930, google:7gYiAwAAQBAJ
+
+3. [Wikipedia](https://en.wikipedia.org/wiki/Server-sent_events)
 
 
 ---
