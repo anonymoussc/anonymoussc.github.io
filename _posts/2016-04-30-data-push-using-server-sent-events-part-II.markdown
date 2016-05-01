@@ -7,7 +7,7 @@ summary: Server-sent events (SSE) is a technology where a browser receives autom
 
 - `Object.keys` is available in all browsers where SSE is also available. When we start adding fallbacks we will need a polyfill for IE8 and earlier. The polyfill is slower: it is an `O(n)` algorithm (where n is the number of keys), whereas a native `Object.keys` should be `O(1)`.
 
-- With persistent storage we can store all the data that is streamed to us, opening up a world of possibilities: tables, real-time charts, client-side analysis using the latest machine learning technologies, and so on. You could be beating the markets without ever having to leave the browser.
+- With persistent storage we can store all the data that is streamed to us, opening up a world of possibilities: tables, real-time charts, client-side analysis using the latest machine learning technologies, and so on.
 
 
 
