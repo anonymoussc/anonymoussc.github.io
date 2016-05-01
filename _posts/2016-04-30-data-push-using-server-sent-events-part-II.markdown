@@ -21,5 +21,5 @@ Reference :
 
 
 ---
-> Quality is never an accident. It is always the result of intelligent effort.
-> <small>- [John Ruskin](http://www.brainyquote.com/quotes/quotes/j/johnruskin130005.html)</small>
+> Imagination will often carry us to worlds that never were. But without it we go nowhere.
+> <small>- [Carl Sagan](http://www.brainyquote.com/quotes/quotes/c/carlsagan131315.html)</small>
