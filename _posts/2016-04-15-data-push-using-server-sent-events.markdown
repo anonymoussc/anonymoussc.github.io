@@ -33,7 +33,7 @@ Server-sent events (SSE) is a technology where a browser receives automatic upda
 
 Reference :
 
-1. [Server-sent events - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+1. [Server-sent events Web APIs MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 
 2. Data Push Apps With HTML5 SSE: Pragmatic Solutions for Real-World Clients, Darren Cook, O'Reilly Media, Mar 2014. isbn:9781430264484, isbn:9781449371937, amazon:1449371930, google:7gYiAwAAQBAJ
 
