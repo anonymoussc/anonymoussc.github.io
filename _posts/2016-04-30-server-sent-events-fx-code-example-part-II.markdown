@@ -51,5 +51,5 @@ Reference :
 
 
 ---
-> Trouble shared is trouble halved.
-> <small>- [Lee Iacocca](http://www.brainyquote.com/quotes/quotes/l/leeiacocca120041.html)</small>
+> We're entering a new world in which data may be more important than software.
+> <small>- [Tim O'Reilly](http://www.brainyquote.com/quotes/quotes/t/timoreill219565.html)</small>
