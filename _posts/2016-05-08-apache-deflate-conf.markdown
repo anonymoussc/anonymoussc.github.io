@@ -5,7 +5,7 @@ summary: Apache deflate.conf.
 ---
 
 {% highlight Bash %}
-    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/event-stream
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/event-stream
 {% endhighlight %}
 
 {% highlight Bash %}
