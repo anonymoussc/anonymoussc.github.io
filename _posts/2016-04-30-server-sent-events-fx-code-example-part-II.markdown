@@ -1,8 +1,8 @@
 ---
-title:  "Server Sent Events fx code example - part II"
+title:  "Server Sent Events fx code example - part ll"
 date:   2016-04-30 21:18:00
 categories: SSE
-summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code example.
+summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code example part II.
 ---
 
 ### 1. SSE fx client - server structured code example.
