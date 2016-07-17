@@ -35,9 +35,9 @@ index.html
 
 Notes :
 
-1. It will not cache any videos.
+1. It will not cache any videos. (Tested in chrome)
 
-2. It will cache & available for offline view all pages except `/contact`.
+2. It will cache & available for offline view all pages except `/contact`. (Tested in chrome)
 
 3. It will cached & available for offline view the latest 14 posts.
 
