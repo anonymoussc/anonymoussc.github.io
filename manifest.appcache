@@ -1,0 +1,35 @@
+---
+---
+CACHE MANIFEST
+# {{ site.time }}:v1
+
+# Main page
+/
+
+# Posts
+{% for post in site.posts limit:14 %}
+{{ post.url | prepend: site.baseurl }}
+{% endfor %}
+
+# Pages
+about/
+archive/
+bitcoin/
+
+# CSS
+css/font-awesome.css
+css/pygments.css
+css/reset.css
+css/style.css
+
+# Other resources
+# assets/images/avatar.png
+
+favicon.ico
+
+NETWORK:
+http://www.youtube.com/*
+https://www.youtube.com/*
+
+# http://*
+# https://*

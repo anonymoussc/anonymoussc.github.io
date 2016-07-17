@@ -12,9 +12,9 @@ author:
   info: (@<a href="mailto:50c5ac69@opayq.com">anonymoussc</a>)
 
 url: http://anonymoussc.github.io/
-baseurl: ""
+baseurl: http://anonymoussc.github.io
 lang: en
-
+excerpt_separator: ""
 
 ##############
 # Optional
