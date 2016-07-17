@@ -1,7 +1,7 @@
 ---
 title:  "Implementing application cache manifest"
 date:   2016-07-16 19:05:00
-summary: which mean once being cache the webapp are accessible offline.
+summary: Once being cached the webapp are accessible offline.
 
 ---
 
