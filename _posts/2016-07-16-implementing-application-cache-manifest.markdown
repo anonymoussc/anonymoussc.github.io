@@ -19,9 +19,15 @@ Appcache used for this blog :
 
 ### manifest.appcache
 
+{: .center-text}
+manifest.appcache
+
 <script src="http://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/2d63af958d5a2e510b8be8f9b92dd99af1468b4c/manifest.appcache?footer=minimal"></script>
 
 ### index.html
+
+{: .center-text}
+index.html
 
 <script src="http://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/2d63af958d5a2e510b8be8f9b92dd99af1468b4c/_layouts/default.html?slice=1&footer=minimal"></script>
 
