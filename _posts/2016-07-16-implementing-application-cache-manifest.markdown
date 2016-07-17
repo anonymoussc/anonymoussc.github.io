@@ -1,6 +1,6 @@
 ---
 title:  "Implementing application cache manifest"
-date:   2016-07-06 19:05:00
+date:   2016-07-16 19:05:00
 summary: which mean once being cache the webapp are accessible offline.
 
 ---
@@ -31,7 +31,7 @@ Notes :
 
 1. It will not cache any videos.
 
-2. It cache all pages except `/contact`.
+2. It will cache & available for offline view all pages except `/contact`.
 
-3. It will cached the latest 14 posts.
+3. It will cached & available for offline view the latest 14 posts.
 
