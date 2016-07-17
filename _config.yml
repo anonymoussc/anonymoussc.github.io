@@ -14,7 +14,7 @@ author:
 url: http://anonymoussc.github.io/
 baseurl: http://anonymoussc.github.io
 lang: en
-excerpt_separator: ""
+#excerpt_separator: ""
 
 ##############
 # Optional
