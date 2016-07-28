@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#" manifest=”{{ site.url }}manifest.appcache”>
+<head>
+    {% include head.html %}
+</head>
+<body>
+<style>
+    .content {
+        background-attachment : fixed;
+        min-height            : 400px;
+    }
+
+    #content1 {
+        background-image  : url("{{ page.bg-image-1 }}");
+        background-size   : cover;
+        background-repeat : no-repeat;
+    }
+
+    #content2 {
+        background-image  : url("{{ page.bg-image-2 }}");
+        background-size   : cover;
+        background-repeat : no-repeat;
+    }
+
+    #content3 {
+        background-image  : url("{{ page.bg-image-3 }}");
+        background-size   : cover;
+        background-repeat : no-repeat;
+    }
+</style>
+
+<div class="content" id="content1" data-stellar-background-ratio="0.5"></div>
+
+{% if page.cover-image %}
+<div class="cover-image-container">
+    <!--
+        <img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+        <img alt="Cover image" src="https://raw.githubusercontent.com/anonymoussc/stratosphere/gh-pages/img/covers/{{ page.cover-image }}">
+    -->
+    <img alt="Cover image" src="https://raw.githubusercontent.com/anonymousscX/stratosphere/gh-pages/img/covers/{{ page.cover-image }}">
+</div>
+{% endif %}
+
+<div class="wrap">
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <script>
+        $("article").fitVids();
+        $('article p').each(function(i) {
+            if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
+                $(this).addClass('img-only');
+            }
+            if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)) {
+                $(this).addClass('img-only-source');
+            }
+        });
+    </script>
+</div>
+
+<div class="content" id="content3" data-stellar-background-ratio="0.5"></div>
+
+<script>
+    $.stellar({
+        horizontalScrolling: false,
+        responsive         : true
+    });
+</script>
+
+{% include footer.html %}
+
+</body>
+</html>
