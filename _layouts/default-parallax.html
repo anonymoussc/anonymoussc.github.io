@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#" manifest=”{{ site.url }}manifest.appcache”>
+<html lang="{{ site.lang }}" manifest="{{ site.baseurl }}/manifest.appcache" prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
 </head>
@@ -11,19 +11,19 @@
     }
 
     #content1 {
-        background-image  : url("{{ page.bg-image-1 }}");
+        background-image  : url("https://raw.githubusercontent.com/anonymousscX/stratosphere/gh-pages/img/parallax-background/{{ page.bg-image-1 }}");
         background-size   : cover;
         background-repeat : no-repeat;
     }
 
     #content2 {
-        background-image  : url("{{ page.bg-image-2 }}");
+        background-image  : url("https://raw.githubusercontent.com/anonymousscX/stratosphere/gh-pages/img/parallax-background/{{ page.bg-image-2 }}");
         background-size   : cover;
         background-repeat : no-repeat;
     }
 
     #content3 {
-        background-image  : url("{{ page.bg-image-3 }}");
+        background-image  : url("https://raw.githubusercontent.com/anonymousscX/stratosphere/gh-pages/img/parallax-background/{{ page.bg-image-3 }}");
         background-size   : cover;
         background-repeat : no-repeat;
     }
@@ -41,32 +41,33 @@
 </div>
 {% endif %}
 
-<div class="wrap">
+<div class="content wrap" id="content2" data-stellar-background-ratio="0.5">
 
     {% include header.html %}
 
     {{ content }}
 
-    <script>
-        $("article").fitVids();
-        $('article p').each(function(i) {
-            if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
-                $(this).addClass('img-only');
-            }
-            if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)) {
-                $(this).addClass('img-only-source');
-            }
-        });
-    </script>
 </div>
 
 <div class="content" id="content3" data-stellar-background-ratio="0.5"></div>
 
 <script>
+
+    $("article").fitVids();
+    $('article p').each(function(i) {
+        if (($(this).find('img').length) && (!$.trim($(this).text()).length)) {
+            $(this).addClass('img-only');
+        }
+        if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)) {
+            $(this).addClass('img-only-source');
+        }
+    });
+
     $.stellar({
         horizontalScrolling: false,
         responsive         : true
     });
+
 </script>
 
 {% include footer.html %}

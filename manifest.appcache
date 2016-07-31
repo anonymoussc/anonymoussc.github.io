@@ -17,19 +17,27 @@ archive/
 bitcoin/
 
 # CSS
+http://fonts.googleapis.com/css?family=Tangerine|Raleway|Ubuntu
 css/font-awesome.css
 css/pygments.css
 css/reset.css
 css/style.css
 
+# JS
+js/ga.js
+js/jquery.min.js
+js/modernizr.js
+js/fitvids.js
+js/jquery.stellar.min.js
+
+http://www.google-analytics.com/analytics.js
+
 # Other resources
 # assets/images/avatar.png
 
-favicon.ico
+#favicon.ico
 
 NETWORK:
-http://www.youtube.com/*
-https://www.youtube.com/*
-
+*
 # http://*
 # https://*
