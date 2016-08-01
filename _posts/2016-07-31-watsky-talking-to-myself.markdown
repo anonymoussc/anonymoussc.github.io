@@ -1,7 +1,7 @@
 ---
 layout: "post-parallax"
 title:  "Watsky- Talking to Myself [X Infinity]"
-date:   2016-08-01 08:26:00
+date:   2016-07-31 08:26:00
 summary: Watsky- Talking to Myself [X Infinity] - Hard boiled narrative text extended part 2.
 bg-image-1: 3832_1024.jpg
 bg-image-2: 
