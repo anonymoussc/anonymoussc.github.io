@@ -31,6 +31,8 @@ index.html
 
 <script src="http://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/master/_layouts/default.html?slice=1&footer=minimal"></script>
 
+Check what has been cached by navigating to `chrome://appcache-internals/`.
+
 ---
 
 Notes :
