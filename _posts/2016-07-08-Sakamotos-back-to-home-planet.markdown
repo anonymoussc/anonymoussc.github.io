@@ -1,6 +1,6 @@
 ---
 title:  "Sakamoto's back to home planet"
-date:   2016-07-07 08:04:00
+date:   2016-07-08 08:04:00
 categories: Videos
 summary: Sakamoto's retarded laugh.
 ---

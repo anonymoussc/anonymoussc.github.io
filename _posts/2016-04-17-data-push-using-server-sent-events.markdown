@@ -1,6 +1,6 @@
 ---
 title:  "Data Push using Server Sent Events"
-date:   2016-04-15 15:57:00
+date:   2016-04-17 15:57:00
 categories: SSE
 summary: Server-sent events (SSE) is a technology where a browser receives automatic updates from a server via HTTP connection - Wikipedia.
 ---

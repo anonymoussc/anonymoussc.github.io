@@ -1,6 +1,6 @@
 ---
 title:  "Hard boiled narrative text"
-date:   2016-07-09 15:26:00
+date:   2016-07-10 15:26:00
 categories: Videos
 summary: Hard boiled narrative text.
 ---

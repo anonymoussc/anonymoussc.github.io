@@ -1,6 +1,6 @@
 ---
 title:  "Server Sent Events fx code example"
-date:   2016-04-20 00:17:00
+date:   2016-04-21 00:17:00
 categories: SSE
 summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code example.
 ---

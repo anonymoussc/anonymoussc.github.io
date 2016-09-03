@@ -1,6 +1,6 @@
 ---
 title:  "Amending the most recent git commit message."
-date:   2016-06-11 22:15:00
+date:   2016-06-12 22:15:00
 summary: http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git.
 ---
 

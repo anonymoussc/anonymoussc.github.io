@@ -1,7 +1,7 @@
 ---
 layout: "post-parallax"
 title:  "Rest in peace"
-date:   2016-07-28 08:14:00
+date:   2016-07-29 08:14:00
 summary: RIP.
 bg-image-1: 3832_1024.jpg
 bg-image-2: 

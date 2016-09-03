@@ -1,6 +1,6 @@
 ---
 title:  "Restangular Crud code example"
-date:   2016-05-20 02:39:00
+date:   2016-05-21 02:39:00
 summary: From the documentation.
 ---
 

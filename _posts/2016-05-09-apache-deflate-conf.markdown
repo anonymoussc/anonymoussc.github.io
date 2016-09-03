@@ -1,6 +1,6 @@
 ---
 title:  "Apache deflate.conf"
-date:   2016-05-08 01:07:00
+date:   2016-05-09 01:07:00
 summary: Apache deflate.conf.
 ---
 
