@@ -1,6 +1,6 @@
 ---
 title:  "ES6 Reference"
-date:   2016-09-12 11:47:00
+date:   2016-09-11 11:47:00
 categories: Software-Engineering
 summary: EcmaScript 2015
 ---
