@@ -80,3 +80,8 @@ ES6 new features:
 ### Reflect API
 
 ### Tail Calls
+
+
+---
+> Knowledge is love and light and vision.
+> <small>- [Helen Keller](http://www.brainyquote.com/quotes/quotes/h/helenkelle103465.html)</small>
