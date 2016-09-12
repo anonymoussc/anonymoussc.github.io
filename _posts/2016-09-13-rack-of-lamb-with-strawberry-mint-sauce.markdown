@@ -1,6 +1,6 @@
 ---
 title:  "Rack of Lamb with Strawberry Mint Sauce - Video Recipe"
-date:   2016-09-13 01:49:00
+date:   2016-09-12 01:49:00
 categories: Videos
 summary: Rack of Lamb with Strawberry Mint Sauce – Easter Lamb with Strawberry Mint Sauce
 ---
