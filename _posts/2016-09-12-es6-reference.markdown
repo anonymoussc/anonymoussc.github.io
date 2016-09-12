@@ -36,7 +36,7 @@ ES6 new features:
 ### Arrows
 - [lukehoban/es6features#arrows](https://github.com/lukehoban/es6features#arrows)
 - [Arrow functions - JavaScript MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [ES6 In Depth: Arrow functions" on hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions)
+- [ES6 In Depth: Arrow functions on hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions)
 
 ### Classes
 
