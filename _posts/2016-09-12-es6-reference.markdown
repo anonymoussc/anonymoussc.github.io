@@ -36,13 +36,21 @@ ES6 new features:
 ### Arrows
 - [lukehoban/es6features#arrows](https://github.com/lukehoban/es6features#arrows)
 - [Arrow functions - JavaScript MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [ES6 In Depth: Arrow functions on hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions)
+- ["ES6 In Depth: Arrow functions" on hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
 
 ### Classes
+- [lukehoban/es6features#classes](https://github.com/lukehoban/es6features#classes)
+- [Classes - JavaScript MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+- [ES6 In Depth: Classes](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
 
 ### Enhanced Object Literals
+- [lukehoban/es6features#enhanced-object-literals](https://github.com/lukehoban/es6features#enhanced-object-literals)
+- [Grammar_and_types#Object_literals - JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals)
 
 ### Template Strings
+- [lukehoban/es6features#template-strings](https://github.com/lukehoban/es6features#template-strings)
+- [Template literals - JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- ["ES6 in Depth: Template strings" on hacks.mozilla.org](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/)
 
 ### Destructuring
 
