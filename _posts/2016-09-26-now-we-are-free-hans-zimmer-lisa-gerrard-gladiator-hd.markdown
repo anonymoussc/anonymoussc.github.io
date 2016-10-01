@@ -5,7 +5,7 @@ categories: Videos
 summary: Now We Are Free - Hans Zimmer & Lisa Gerrard (Gladiator) HD
 ---
 
-### ~~Freedom to jailbreak~~ y
+### ~~Hurry, the key!!~~ y
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UT6WahOgNvo" frameborder="0" allowfullscreen></iframe>
 
