@@ -1,8 +1,9 @@
 ---
 layout: "post-parallax"
-title:  "Rest in peace"
+title:  "Alan Walker - Sing Me To Sleep"
 date:   2016-07-29 08:14:00
-summary: RIP.
+categories: Videos
+summary: Alan Walker - Sing Me To Sleep.
 bg-image-1: 3832_1024.jpg
 bg-image-2: 
 bg-image-3: 155277469_1024.jpg
