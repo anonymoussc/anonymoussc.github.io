@@ -1,26 +1,62 @@
 ---
 title:  "Components docs"
-date:   2017-01-16 05:16:00
+date:   2017-01-18 05:16:00
 categories: Software-Engineering
-summary: Components docs
+summary: Docs page moved to components wiki, CLI command below work for v0.4 and before, for specific version visit revision and click sha-1 hash link on the right.
 ---
 
-Components docs
+{: .center-text}
+![Black Flames](https://raw.githubusercontent.com/7cdn/images/gh-pages/blog/posts/blackflames.png)
 
+#### Edit 2017/11/03: Docs page moved to components __[wiki](https://github.com/onsigbaar/components/wiki)__, CLI command below work for v0.4 and before, for specific version visit __[revision](https://github.com/onsigbaar/components/wiki/CLI/_history)__ and click sha-1 hash link on the right.
+
+
+- [Install](#install)
 - [Cli](#cli)
 - [Facade](#facade)
 - [Entity](#entity)
 - [Custom-Namespaces](#custom-namespaces)
 
 
----
+### Install
+
+``` bash
+composer require onsigbaar/components
+```
+
+Add service provider.
+
+``` bash
+'providers' => [
+  Onsigbaar\Components\ServiceProvider::class,
+],
+```
+
+Add facade aliases.
+
+``` bash
+'aliases' => [
+  'Component' => Onsigbaar\Components\Facades\Component::class),
+],
+```
+
+Publish the package's configuration file.
+
+``` bash
+php artisan vendor:publish --provider="Onsigbaar\Components\ServiceProvider"
+```
+
 
 ### Cli
-```
+``` bash
 php artisan component:setup
 
 php artisan component:make <ComponentName>
 php artisan component:make <ComponentName> <ComponentName> <ComponentName>
+
+# do composer dump-autoload after component:make
+
+composer dump-autoload
 
 php artisan component:make <ComponentName> --plain
 php artisan component:make <ComponentName> -p
@@ -84,24 +120,22 @@ php artisan component:enable <ComponentName>
 
 php artisan component:disable <ComponentName>
 
-php artisan component:make-middleware <MiddlewareName>
+php artisan component:make-middleware <MiddlewareName> <ComponentName>
 
-php artisan component:make-mail <MailClassName>
+php artisan component:make-mail <MailClassName> <ComponentName>
 
-php artisan component:make-notification <NotificationClassName>
+php artisan component:make-notification <NotificationClassName> <ComponentName>
 
 php artisan component:update <ComponentName>
 
 php artisan component:update
-
-php artisan component:list
 
 ```
 
 
 ### Facade
 
-```php
+``` bash
 Component::all();
 
 Component::getCached()
@@ -110,7 +144,7 @@ Component::getOrdered();
 
 Component::scan();
 
-Component::find('ComponentName'); // Component::get('ComponentName');
+Component::find('ComponentName'); # Component::get('ComponentName');
 
 Component::findOrFail('ComponentName');
 
@@ -144,7 +178,7 @@ Component::config('composer.vendor');
 
 Component::getUsedStoragePath();
 
-Component::getUsedNow(); // Component::getUsed();
+Component::getUsedNow(); # Component::getUsed();
 
 Component::setUsed('ComponentName');
 
@@ -152,14 +186,14 @@ Component::getAssetsPath();
 
 Component::asset('component::img/logo.img');
 
-Component::install('Rad/component');
+Component::install('vendor/component');
 
 Component::update('component');
 ```
 
 ### Entity
 
-```php
+``` bash
 $component = Component::find('component');
 
 $component->getName();
@@ -181,7 +215,7 @@ $component->delete();
 
 ### Custom-Namespaces
 
-```php
+```bash
 Lang::get('component::group.name')
 
 View::make('component::index')
@@ -189,3 +223,8 @@ View::make('component::partials.sidebar')
 
 Config::get('component.name')
 ```
+
+
+---
+> Counterpoint is a component that gives real energy, and it is about optimism.
+> <small>- [Twyla Tharp](https://www.brainyquote.com/quotes/quotes/t/twylatharp598050.html)</small>

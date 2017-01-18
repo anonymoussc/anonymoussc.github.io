@@ -46,6 +46,7 @@ pick 738s56h ok
 #  s, squash = use commit, but meld into previous commit
 #  f, fixup = like "squash", but discard this commit's log message
 #  x, exec = run command (the rest of the line) using shell
+#  d, drop = remove commit
 #
 # These lines can be re-ordered; they are executed from top to bottom.
 #
@@ -74,6 +75,7 @@ s 738s56h ok
 #  s, squash = use commit, but meld into previous commit
 #  f, fixup = like "squash", but discard this commit's log message
 #  x, exec = run command (the rest of the line) using shell
+#  d, drop = remove commit
 #
 # These lines can be re-ordered; they are executed from top to bottom.
 #
