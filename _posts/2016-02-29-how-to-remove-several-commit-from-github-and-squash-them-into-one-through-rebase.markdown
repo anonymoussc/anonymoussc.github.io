@@ -90,6 +90,22 @@ Save _(CTRL + x)_ the file and exit, next question, then choose _yes / no_ (by p
 
 Push the change into remote repository.
 
+__Edit 2017/11/05-E01__
+
+Notes:
+- Choose `f` or `fixup` = like "squash", but discard the commit's log message.
+- Type `i` to insert or start editing
+- Type `esc` to enter "Command mode"
+    - `:q` to quit (short for `:quit`)
+    - `:q!` to quit without saving (short for `:quit!`)
+    - `:wq` to write and quit
+    - `:wq!` to write and quit even if file has only read permission (if file does not have write permission: force write)
+    - `:x` to write and quit (similar to `:wq`, but only write if there are changes)
+    - `:exit` to write and exit (same as `:x`)
+    - `:qa` to quit all (short for `:quitall`)
+
+### Edit 2017/11/05-E01: add notes.
+
 
 ---
 > Squash is my passion, and it is in my blood.
