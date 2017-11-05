@@ -5,7 +5,7 @@ summary: In Git there are two main ways to integrate changes from one branch int
 cover-image: chelovex-vyshka_1024.jpg
 ---
 
-In Git there are two main ways to integrate changes from one branch into another the __merge__ and the __rebase__.
+In Git there are two main ways to integrate changes from one branch into another the __merge__ and the __rebase__. For example, we will undo the last 3 push from remote.
 
 ### "Undo" the last 3 push from remote repository
 
@@ -18,7 +18,7 @@ git push -f origin HEAD^^^:master
 git push -f origin HEAD~3:master
 {% endhighlight %}
 
-In local repository the commit will be available as an un-pushes commit.
+The last 3 commit will be available in local.
 
 ### Rebasing
 
@@ -86,16 +86,18 @@ s 738s56h ok
 # Note that empty commits are commented out
 {% endhighlight %}
 
+### GNU nano (Ubuntu).
+
 Save _(CTRL + x)_ the file and exit, next question, then choose _yes / no_ (by pressing y or n) and push `enter` to confirm. Next Git will asked you to change the commit message, simply delete the last two and keep the one that will be pick (or do other possible task), and again; save _(CTRL + x)_ the file and exit, next question, choose _yes / no_ (by pressing y or n) and push `enter` to confirm.
 
 Push the change into remote repository.
 
 __Edit 2017/11/05-E01__
 
-Notes:
+Notes (_fixup and __vim editor___) :
 - Choose `f` or `fixup` = like "squash", but discard the commit's log message.
-- Type `i` to insert or start editing
-- Type `esc` to enter "Command mode"
+- vim editor: Type `i` to insert or start editing
+- vim editor: To quit, type `esc` to enter "Command mode"
     - `:q` to quit (short for `:quit`)
     - `:q!` to quit without saving (short for `:quit!`)
     - `:wq` to write and quit
@@ -104,7 +106,8 @@ Notes:
     - `:exit` to write and exit (same as `:x`)
     - `:qa` to quit all (short for `:quitall`)
 
-### Edit 2017/11/05-E01: add notes.
+### Edit 2017/11/05-E01: Add notes.
+### Edit 2017/11/05-E01 24:04 AM: Further edit, more clarity about vim editor and stuff.
 
 
 ---
