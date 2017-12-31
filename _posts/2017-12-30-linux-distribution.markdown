@@ -1,6 +1,6 @@
 ---
 title:  "Linux distribution"
-date:   2017-01-18 05:16:00
+date:   2017-12-30 05:16:00
 categories: Software-Engineering
 summary: Server stuff.
 ---
