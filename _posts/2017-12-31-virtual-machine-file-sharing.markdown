@@ -1,6 +1,6 @@
 ---
 title:  "Virtual machine : file sharing"
-date:   2017-12-30 12:30:00
+date:   2017-12-31 12:30:00
 categories: Software-Engineering
 summary: VM Part 4 file sharing.
 ---

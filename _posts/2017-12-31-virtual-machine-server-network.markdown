@@ -1,6 +1,6 @@
 ---
 title:  "Virtual machine : server network"
-date:   2017-12-30 12:35:00
+date:   2017-12-31 12:35:00
 categories: Software-Engineering
 summary: VM Part 5 server network.
 ---

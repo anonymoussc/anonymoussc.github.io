@@ -1,6 +1,6 @@
 ---
 title:  "Virtual machine : basic software"
-date:   2017-12-30 12:45:00
+date:   2017-12-31 12:45:00
 categories: Software-Engineering
 summary: VM Part 7 basic software.
 ---

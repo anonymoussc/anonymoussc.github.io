@@ -1,6 +1,6 @@
 ---
 title:  "Virtual machine : basic command"
-date:   2017-12-30 12:40:00
+date:   2017-12-31 12:40:00
 categories: Software-Engineering
 summary: VM Part 6 basic command.
 ---

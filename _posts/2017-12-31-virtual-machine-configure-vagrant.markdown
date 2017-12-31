@@ -1,6 +1,6 @@
 ---
 title:  "Virtual machine : configure vagrant"
-date:   2017-12-30 12:15:00
+date:   2017-12-31 12:15:00
 categories: Software-Engineering
 summary: VM Part 1 configure vagrant.
 ---
