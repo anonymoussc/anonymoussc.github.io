@@ -1,8 +1,8 @@
 ---
-title:  "Listing global npm package and version"
+title:  "Listing installed global npm package and version"
 date:   2018-01-06 18:42:00
 categories: Software-Engineering
-summary: Listing global npm package and version
+summary: Listing installed global npm package and version
 ---
 
 Use :
