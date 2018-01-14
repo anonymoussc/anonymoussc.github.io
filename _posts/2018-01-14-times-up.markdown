@@ -1,0 +1,14 @@
+---
+title:  "Times up"
+date:   2018-01-14 17:00:00
+summary: Nice speech
+---
+
+### Impressive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnxFqze35Vk" frameborder="0" allowfullscreen></iframe>
+
+
+---
+> First, our focus on security is on the infrastructure itself. So it is all about how you protect the network, the device, and the application that is riding on the server.
+> <small>- [John W. Thompson](https://www.brainyquote.com/quotes/john_w_thompson_339843)</small>
