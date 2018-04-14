@@ -20,7 +20,7 @@ Need to give a finishing touch into two last chapter: _"Heaven gift"_ and _"Fina
 
 2). __End of an era: The lord that departure to Valhalla - into you 3000 years later__
 
-This mark as completed. Part two play a major role into the creation of part three and the change individual of main character as well as entire story line.
+This mark as completed.
 
 3). __Dawn of new age - Luminescence__
 
