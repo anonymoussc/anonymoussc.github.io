@@ -4,13 +4,13 @@ date:   2018-06-30 11:28:00
 summary: Reduce Size of Docker Cache
 ---
 
-`
+``` bash
 docker image prune
-`
+```
 
-`
+``` bash
 docker container prune
-`
+```
 
 
 ---
