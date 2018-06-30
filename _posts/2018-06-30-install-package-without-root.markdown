@@ -1,7 +1,7 @@
 ---
-title:  "Install package without root privilege example"
+title:  "Install Package Without Root Privilege Bash Example"
 date:   2018-06-30 11:00:00
-summary: Install package without root privilege example
+summary: Install Package Without Root Privilege Bash Example
 ---
 
 `
