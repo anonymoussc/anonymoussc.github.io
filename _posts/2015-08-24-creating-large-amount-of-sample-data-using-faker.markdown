@@ -30,7 +30,7 @@ Faker can be useful for many task related to sample data, [Faker documentation](
 
 The working example of code snipet above as follow. File located at _/database/seeds/ TodolistTableSeeder.php_
 
-<script src="http://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/53e84915e9dc0cc47226ef25101daea13a6bb800/database/seeds/TodolistTableSeeder.php?footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/53e84915e9dc0cc47226ef25101daea13a6bb800/database/seeds/TodolistTableSeeder.php?footer=0"></script>
 
 It need to be called from the database seeder class ( _/database/seeds/ DatabaseSeeder.php_ ) using : 
 
@@ -38,7 +38,7 @@ It need to be called from the database seeder class ( _/database/seeds/ Database
 
 Again, an example bellow. File located at _/database/seeds/ DatabaseSeeder.php_
 
-<script src="http://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/53e84915e9dc0cc47226ef25101daea13a6bb800/database/seeds/DatabaseSeeder.php?footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/53e84915e9dc0cc47226ef25101daea13a6bb800/database/seeds/DatabaseSeeder.php?footer=0"></script>
 
 Rebuild class map, run :
 
@@ -51,4 +51,4 @@ Seeding the database :
 
 ---
 > The key to good decision making is evaluating the available information - the data - and combining it with your own estimates of pluses and minuses. As an economist, I do this every day. 
-> <small>- [Emily Oster](http://www.brainyquote.com/quotes/quotes/e/emilyoster554579.html)</small>
+> <small>- [Emily Oster](https://www.brainyquote.com/quotes/quotes/e/emilyoster554579.html)</small>

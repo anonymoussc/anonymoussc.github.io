@@ -32,4 +32,4 @@ There are four cross-cutting vertical layers, each of which are applied to and s
 
 ---
 > Public service must be more than doing a job efficiently and honestly. It must be a complete dedication to the people and to the nation.
-> <small>- [Margaret Chase Smith](http://www.brainyquote.com/quotes/quotes/m/margaretch319201.html)</small>
+> <small>- [Margaret Chase Smith](https://www.brainyquote.com/quotes/quotes/m/margaretch319201.html)</small>

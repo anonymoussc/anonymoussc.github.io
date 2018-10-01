@@ -22,14 +22,14 @@ Appcache used for this blog :
 {: .center-text}
 manifest.appcache
 
-<script src="http://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/master/manifest.appcache?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/master/manifest.appcache?footer=minimal"></script>
 
 ### index.html
 
 {: .center-text}
 index.html
 
-<script src="http://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/master/_layouts/default.html?slice=1&footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/anonymoussc/anonymoussc.github.io/blob/master/_layouts/default.html?slice=1&footer=minimal"></script>
 
 Check what has been cached by navigating to `chrome://appcache-internals/`.
 

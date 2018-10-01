@@ -23,4 +23,4 @@ sudo apt-get install -y nodejs
 
 ---
 > All the best people in life seem to like LINUX. 
-> <small>- [Steve Wozniak](http://www.brainyquote.com/quotes/quotes/s/stevewozni349896.html)</small>
+> <small>- [Steve Wozniak](https://www.brainyquote.com/quotes/quotes/s/stevewozni349896.html)</small>

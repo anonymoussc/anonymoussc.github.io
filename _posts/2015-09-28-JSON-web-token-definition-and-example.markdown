@@ -41,7 +41,7 @@ Encoded :
     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 
 ### 2. PAYLOAD:DATA
-There are multiple claims that can be provide. Including registered claim names, public claim names, and private claim names, more information [jwt claims](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#RegisteredClaimName).
+There are multiple claims that can be provide. Including registered claim names, public claim names, and private claim names, more information [jwt claims](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#RegisteredClaimName).
 
 Example : 
 
@@ -83,4 +83,4 @@ Finally, all part of JWT :
 
 ---
 > Love shall be our token; love be yours and love be mine.
-> <small>- [Christina Rossetti](http://www.brainyquote.com/quotes/quotes/c/christinar147534.html)</small>
+> <small>- [Christina Rossetti](https://www.brainyquote.com/quotes/quotes/c/christinar147534.html)</small>

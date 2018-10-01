@@ -27,4 +27,4 @@ Syntax :
 
 ---
 > By failing to prepare, you are preparing to fail. 
-> <small>- [Benjamin Franklin](http://www.brainyquote.com/quotes/quotes/b/benjaminfr138217.html)</small>
+> <small>- [Benjamin Franklin](https://www.brainyquote.com/quotes/quotes/b/benjaminfr138217.html)</small>

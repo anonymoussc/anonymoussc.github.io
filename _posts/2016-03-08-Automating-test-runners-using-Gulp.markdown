@@ -105,4 +105,4 @@ gulp.task('e2e', ['connect', 'webdriver_update'], function(done) {
 
 ---
 > Television is simply automated daydreaming.
-> <small>- [Lee Loevinger](http://www.brainyquote.com/quotes/quotes/l/leeloeving162532.html)</small>
+> <small>- [Lee Loevinger](https://www.brainyquote.com/quotes/quotes/l/leeloeving162532.html)</small>

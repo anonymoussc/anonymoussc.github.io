@@ -23,4 +23,4 @@ $ sudo apt-get remove sublime-text-installer
 
 ---
 > There is something sublime about its aloofness from and its indifference to its external environment..
-> <small>- [Frederick Soddy ](http://www.brainyquote.com/quotes/quotes/f/fredericks310199.html)</small>
+> <small>- [Frederick Soddy ](https://www.brainyquote.com/quotes/quotes/f/fredericks310199.html)</small>

@@ -10,95 +10,95 @@ summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code exa
 {: .center-text}
 fxpair.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver1.keepalive.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver1.keepalive.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver1.keepalive.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient1.keepalive.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient1.keepalive.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient1.keepalive.html?footer=minimal"></script>
 
 ### 2. SSE fx client - server retry code example.
 
 {: .center-text}
 fxpair.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver2.retry.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver2.retry.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver2.retry.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient2.retry.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient2.retry.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient2.retry.html?footer=minimal"></script>
 
 ### 3. SSE fx client - server shutdown code example.
 
 {: .center-text}
 fxpair.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver3.shutdown.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver3.shutdown.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver3.shutdown.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient3.shutdown.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient3.shutdown.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient3.shutdown.html?footer=minimal"></script>
 
 {: .center-text}
 fxclient3.jitter.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient3.jitter.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient3.jitter.html?footer=minimal"></script>
 
 ### 4. SSE fx client - server id code example.
 
 {: .center-text}
 fxpair4.id.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair4.id.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair4.id.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver4.id.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver4.id.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver4.id.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient4.id.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient4.id.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient4.id.html?footer=minimal"></script>
 
 {: .center-text}
 fxclient4.closure.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient4.closure.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient4.closure.html?footer=minimal"></script>
 
 ### 5. SSE fx client - server die_slowly code example.
 
 {: .center-text}
 fxpair4.id.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair4.id.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxpair4.id.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver5.die_slowly.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver5.die_slowly.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxserver5.die_slowly.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient5.die_slowly.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient5.die_slowly.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse5/fxclient5.die_slowly.html?footer=minimal"></script>
 
 
 Reference :

@@ -10,82 +10,82 @@ summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code exa
 {: .center-text}
 fxserver1.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver1.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver1.php?footer=minimal"></script>
 
 Can also run it by type `php fxserver1.php` in the terminal.
 
 {: .center-text}
 fxclient1.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient1.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient1.html?footer=minimal"></script>
 
 ### 2. SSE fx pair
 
 {: .center-text}
 fxpair2.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair2.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair2.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver2.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver2.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver2.php?footer=minimal"></script>
 
 ### 3. SSE fx ms code example
 
 {: .center-text}
 fxpair3.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair3.ms.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair3.ms.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver3.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver3.ms.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver3.ms.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient3.ms.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient3.ms.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient3.ms.html?footer=minimal"></script>
 
 ### 4. SSE fx repeatable with datestamp code example
 
 {: .center-text}
 fxpair4.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair4.ms.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair4.ms.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver4.datestamp.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver4.datestamp.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver4.datestamp.php?footer=minimal"></script>
 
 ### 5. SSE fx push further beyond code example
 
 {: .center-text}
 fxpair5.ms.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair5.ms.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxpair5.ms.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver5.adjusting.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver5.adjusting_datestamp.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting_datestamp.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxserver5.adjusting_datestamp.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient5.adjusting.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting.html?footer=minimal"></script>
 
 {: .center-text}
 fxclient5.adjusting_ds.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting_ds.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse3/fxclient5.adjusting_ds.html?footer=minimal"></script>
 
 
 Reference :
@@ -99,4 +99,4 @@ Reference :
 
 ---
 > Quality is never an accident. It is always the result of intelligent effort.
-> <small>- [John Ruskin](http://www.brainyquote.com/quotes/quotes/j/johnruskin130005.html)</small>
+> <small>- [John Ruskin](https://www.brainyquote.com/quotes/quotes/j/johnruskin130005.html)</small>

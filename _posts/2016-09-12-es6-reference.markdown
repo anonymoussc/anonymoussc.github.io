@@ -89,4 +89,4 @@ ES6 new features:
 
 ---
 > Knowledge is love and light and vision.
-> <small>- [Helen Keller](http://www.brainyquote.com/quotes/quotes/h/helenkelle103465.html)</small>
+> <small>- [Helen Keller](https://www.brainyquote.com/quotes/quotes/h/helenkelle103465.html)</small>

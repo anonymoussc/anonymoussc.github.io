@@ -82,10 +82,10 @@ A complement to 400 level errors, this status code indicates the server encounte
 
 Reference :
 
-1. [Using HTTP Methods for RESTful Services](http://www.restapitutorial.com/lessons/httpmethods.html)
+1. [Using HTTP Methods for RESTful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
 2. Frost, Matthew. Integrating Web Services with OAuth and PHP. Alexandria: musketeers.me, LLC. 2016.
 
 
 ---
 > The keystone of the Fascist doctrine is its conception of the State, of its essence, its functions, and its aims. For Fascism the State is absolute, individuals and groups relative.
-> <small>- [Benito Mussolini](http://www.brainyquote.com/quotes/quotes/b/benitomuss408638.html)</small>
+> <small>- [Benito Mussolini](https://www.brainyquote.com/quotes/quotes/b/benitomuss408638.html)</small>

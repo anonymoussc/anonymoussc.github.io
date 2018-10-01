@@ -51,4 +51,4 @@ Run `sudo php artisan serve --host 127.0.0.1 --port 80` from artisan (laravel). 
 
 ---
 > The library, with its Daedalian labyrinth, mysterious hush, and faintly ominous aroma of knowledge, has been replaced by the computer's cheap glow, pesky chirp, and data spillage.
-> <small>- [P. J. O'Rourke](http://www.brainyquote.com/quotes/quotes/p/pjorour617464.html#HZUUYPgyrhXeh21Z.99)</small>
+> <small>- [P. J. O'Rourke](https://www.brainyquote.com/quotes/quotes/p/pjorour617464.html#HZUUYPgyrhXeh21Z.99)</small>

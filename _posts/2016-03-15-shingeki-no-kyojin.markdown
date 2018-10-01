@@ -22,4 +22,4 @@ Rated __9.2/10__.
 
 ---
 > Cowards die many times before their deaths; the valiant never taste of death but once.
-> <small>- [William Shakespeare](http://www.brainyquote.com/quotes/quotes/w/williamsha104447.html)</small>
+> <small>- [William Shakespeare](https://www.brainyquote.com/quotes/quotes/w/williamsha104447.html)</small>

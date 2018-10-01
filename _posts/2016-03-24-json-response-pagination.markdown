@@ -55,4 +55,4 @@ class UserController extends BaseController
 
 Reference :
 
-1. [Pagination - Fractal](http://fractal.thephpleague.com/pagination/)
+1. [Pagination - Fractal](https://fractal.thephpleague.com/pagination/)

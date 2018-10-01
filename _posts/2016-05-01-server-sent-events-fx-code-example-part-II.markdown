@@ -10,29 +10,29 @@ summary: Server-sent events (SSE) Foreign Exchange (fx) client - server code exa
 {: .center-text}
 fxpair1.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxpair1.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxpair1.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxserver1.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxserver1.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxserver1.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient1.basic.structured.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxclient1.basic.structured.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxclient1.basic.structured.html?footer=minimal"></script>
 
 ### 2. SSE fx client - server with history code example.
 
 {: .center-text}
 fxserver2.structured.php
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxserver2.structured.php?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxserver2.structured.php?footer=minimal"></script>
 
 {: .center-text}
 fxclient2.history.html
 
-<script src="http://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxclient2.history.html?footer=minimal"></script>
+<script src="https://gist-it.appspot.com/github/apps-libX/appsse937/blob/dev-master/sse4/fxclient2.history.html?footer=minimal"></script>
 
 ### SSE Notes
 
@@ -52,4 +52,4 @@ Reference :
 
 ---
 > We're entering a new world in which data may be more important than software.
-> <small>- [Tim O'Reilly](http://www.brainyquote.com/quotes/quotes/t/timoreill219565.html)</small>
+> <small>- [Tim O'Reilly](https://www.brainyquote.com/quotes/quotes/t/timoreill219565.html)</small>

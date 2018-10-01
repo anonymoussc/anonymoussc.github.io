@@ -35,4 +35,4 @@ sudo apt-get install libxslt-dev libxml2-dev
 
 ---
 > Ruby inherited the Perl philosophy of having more than one way to do the same thing. I inherited that philosophy from Larry Wall, who is my hero actually. I want to make Ruby users free. I want to give them the freedom to choose. 
-> <small>- [Yukihiro Matsumoto](http://www.brainyquote.com/quotes/quotes/y/yukihiroma213504.html)</small>
+> <small>- [Yukihiro Matsumoto](https://www.brainyquote.com/quotes/quotes/y/yukihiroma213504.html)</small>

@@ -112,4 +112,4 @@ Notes (_fixup and __vim editor___) :
 
 ---
 > Squash is my passion, and it is in my blood.
-> <small>- [Jahangir Khan](http://www.brainyquote.com/quotes/quotes/j/jahangirkh688618.html)</small>
+> <small>- [Jahangir Khan](https://www.brainyquote.com/quotes/quotes/j/jahangirkh688618.html)</small>

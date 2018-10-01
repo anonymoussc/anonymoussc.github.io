@@ -25,4 +25,4 @@ summary: Progressive Web App
 
 ---
 > A day without sunshine is like, you know, night.
-> <small>- [Steve Martin](http://www.brainyquote.com/quotes/quotes/s/stevemarti378299.html)</small>
+> <small>- [Steve Martin](https://www.brainyquote.com/quotes/quotes/s/stevemarti378299.html)</small>

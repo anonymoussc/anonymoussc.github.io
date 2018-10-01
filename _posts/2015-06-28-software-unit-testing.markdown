@@ -14,9 +14,9 @@ _The idea behind unit testing is to test the functionality of a piece of code in
 5. Installing Testem & running tests using Testem
 6. Automating test runners using Gulp
 
-<script src="http://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js?footer=0"></script>
+<script src="https://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js?footer=0"></script>
 
 
 ---
 > Software is a great combination between artistry and engineering. 
-> <small>- [Bill Gates](http://www.brainyquote.com/quotes/quotes/b/billgates626107.html)</small>
+> <small>- [Bill Gates](https://www.brainyquote.com/quotes/quotes/b/billgates626107.html)</small>

@@ -19,4 +19,4 @@ Instead `sudo apt-get install` user can just type `agi` in the terminal.
 
 ---
 > I can't change the direction of the wind, but I can adjust my sails to always reach my destination. 
-> <small>- [Jimmy Dean](http://www.brainyquote.com/quotes/quotes/j/jimmydean131287.html)</small>
+> <small>- [Jimmy Dean](https://www.brainyquote.com/quotes/quotes/j/jimmydean131287.html)</small>

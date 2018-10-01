@@ -11,7 +11,7 @@ Using laravel 5.1 we can accessing tinker. Create a model using artisan :
 
 Newly generated file will be located at _/app/ Todolist.php_.
 
-<script src="http://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/8877db023b70fa06488a253f3c7c1bbfa51eafea/app/Todolist.php?footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/apps-libX/aesl5-609/blob/8877db023b70fa06488a253f3c7c1bbfa51eafea/app/Todolist.php?footer=0"></script>
 
 Start Tinker :
 
@@ -46,4 +46,4 @@ Done.
 
 ---
 > If an NSA, FBI, CIA, DIA, etc analyst has access to query raw SIGINT databases, they can enter and get results for anything they want. Phone number, email, user id, cell phone handset id (IMEI), and so on - it's all the same. 
-> <small>- [Edward Snowden](http://www.brainyquote.com/quotes/quotes/e/edwardsnow523864.html)</small>
+> <small>- [Edward Snowden](https://www.brainyquote.com/quotes/quotes/e/edwardsnow523864.html)</small>
