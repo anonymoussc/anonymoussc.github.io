@@ -16,7 +16,7 @@ Example (simple jQuery-driven AJAX call) :
  */
 
 $.ajax({
-    url         : "http://path/to/resource/",
+    url         : "https://path/to/resource/",
     dataType    : 'jsonp',
     crossDomain : true,
     success     : function (data) {
@@ -31,4 +31,4 @@ $.ajax({
 
 ---
 > The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central. 
-> <small>- [Dennis Ritchie](http://www.brainyquote.com/quotes/quotes/d/dennisritc274077.html)</small>
+> <small>- [Dennis Ritchie](https://www.brainyquote.com/quotes/quotes/d/dennisritc274077.html)</small>

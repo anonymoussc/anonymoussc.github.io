@@ -38,4 +38,4 @@ Save and reboot.
 
 ---
 > I wouldn't swap the era I competed in for anything, not a day of it. I started out as an amateur, and people like myself, Seb Coe, Steve Ovett, Steve Cram, Tessa Sanderson and the rest did it for the glory of winning medals for our country.
-> <small>- [Daley Thompson](http://www.brainyquote.com/quotes/quotes/d/daleythomp521652.html)</small>
+> <small>- [Daley Thompson](https://www.brainyquote.com/quotes/quotes/d/daleythomp521652.html)</small>
