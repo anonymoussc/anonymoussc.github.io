@@ -1,8 +1,8 @@
 ---
-title:  "HTML symbol for celsius and fahrenheit"
-date:   2018-12-19 22:46:00
+title:  "Html symbol for celsius and fahrenheit"
+date:   2018-12-18 22:46:00
 categories: Software-Engineering
-summary: &#8451 &#8457
+summary: Celsius (&#8451) and Fahrenheit (&#8457)
 ---
 
 Celsius :
