@@ -6,19 +6,19 @@ summary: CLI command to install Sublime Text 3 in Ubuntu 15.10 Willy Werewolf.
 
 ### Install
 
-{% highlight Bash %}
+```bash
 $ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 
 $ sudo apt-get update
 
 $ sudo apt-get install sublime-text-installer
-{% endhighlight %}
+```
 
 ### Uninstall
 
-{% highlight Bash %}
+```bash
 $ sudo apt-get remove sublime-text-installer
-{% endhighlight %}
+```
 
 
 ---

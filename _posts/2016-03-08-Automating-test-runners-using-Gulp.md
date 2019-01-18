@@ -21,7 +21,7 @@ Example how to set up and configure Gulp to run the following tasks - HTTP web s
 
 ###  Create Karma configuration file named karma.conf.js
 
-{% highlight JavaScript %}
+```JavaScript
 module.exports = function () {
     
     return {
@@ -37,11 +37,12 @@ module.exports = function () {
     };
 
 };
-{% endhighlight %}
+
+```
 
 ### Create a Protractor configuration file named protractor.conf.js
 
-{% highlight JavaScript %}
+```JavaScript
 exports.config = {
     seleniumServerJar: './node_modules/protractor/selenium/selenium-server-standalone-2.41.0.jar',
     specs            : ['test/e2e/appSpec.js'],
@@ -50,11 +51,11 @@ exports.config = {
         defaultTimeoutInterval: 30000
     }
 };
-{% endhighlight %}
+```
 
 ### Create a file named gulpfile.js
 
-{% highlight JavaScript %}
+```JavaScript
 var gulp = require('gulp');
 var $    = require('gulp-load-plugins')();
 
@@ -92,7 +93,8 @@ gulp.task('e2e', ['connect', 'webdriver_update'], function(done) {
         });
 
 });
-{% endhighlight %}
+
+```
 
 ### Run unit tests
 

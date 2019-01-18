@@ -21,13 +21,13 @@ To temporally (will lost on reboot) change the swappiness value, in the terminal
 
 ### To make a permanent change, edit the configuration file.
 
-{% highlight Bash %}
+```bash
 # Using kate text editor
 gksudo kate /etc/sysctl.conf
 
 # Using gedit text editor
 gksudo gedit /etc/sysctl.conf
-{% endhighlight %}
+```
 
 Add or edit to the end of the file the swappiness value of choice, default setting for ubuntu are 60.
 

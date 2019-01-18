@@ -6,39 +6,33 @@ summary: http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-mess
 
 ### Amending the most recent git commit message.
 
-{% highlight Bash %}
-
+```bash
 # Will open your editor, allowing to change the commit message of the most recent commit.
 git commit --amend
-
-{% endhighlight %}
+```
 
 ### Amending the most recent git commit message (direct).
 
-{% highlight Bash %}
-
+```bash
 git commit --amend -m "New commit message"
-
-{% endhighlight %}
+```
 
 ### Changing the message of a commit that already being pushed to a remote branch.
 
-{% highlight Bash %}
-
+```bash
 git push <remote> <branch> --force
-# Or
-git push <remote> <branch> -f
 
-{% endhighlight %}
+# Or
+
+git push <remote> <branch> -f
+```
 
 ### Use interactive rebase.
 
-{% highlight Bash %}
-
+```bash
 # N is the number of commits to the last commit you want to be able to edit
 git rebase -i HEAD~N
-
-{% endhighlight %}
+```
 
 ### Reference :
 
