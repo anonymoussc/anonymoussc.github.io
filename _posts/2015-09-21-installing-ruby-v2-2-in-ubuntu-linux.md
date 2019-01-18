@@ -7,7 +7,7 @@ summary: Step by step installing ruby v2.2 in the latest ubuntu linux (15.04).
 
 CLI command :
 
-{% highlight bash %}
+```bash
 # Uninstall previous version
 sudo apt-get remove --purge ruby ruby-dev
 
@@ -30,7 +30,7 @@ sudo apt-get install libxslt-dev libxml2-dev
 # OpenSSL certificate verify failed
 # Error : Gem::RemoteFetcher::FetchError: SSL_connect SYSCALL returned=5 errno=0 state=SSLv3 read server session ticket A (https://rubygems.org/gems/html-pipeline-1.9.0.gem)
 # In Gemfile change source 'https://rubygems.org' into source 'http://rubygems.org'
-{% endhighlight %}
+```
 
 
 ---

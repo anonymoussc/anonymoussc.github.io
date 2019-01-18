@@ -12,12 +12,12 @@ Change the `httpd-vhosts.conf`, location of the file :
 
 Add the following line at the end of the file :
 
-{% highlight bash %}
+```bash
 <VirtualHost *:80>
     DocumentRoot "/Applications/MAMP/htdocs/"
     ServerName someName.whatever
 </VirtualHost>
-{% endhighlight %}
+```
 
 ### Configure your hosts file
 Location of the file :
@@ -29,9 +29,9 @@ Location of the file :
 
 Add the following line at the end of the file :
 
-{% highlight bash %}
+```bash
 127.0.0.1           someName.whatever
-{% endhighlight %}
+```
 
 ### Access `someName.whatever` from an other computer
 
@@ -40,9 +40,9 @@ In the terminal, on MAC and LINUX type `ifconfig |grep inet`, on WINDOWS type `i
 2. Edit the hosts file on the computer you are trying to access the website from.
 Refer to the Configure your hosts file section. Add the following line at the end of the file :
 
-{% highlight bash %}
+```bash
 000.000.0.0         someName.whatever
-{% endhighlight %}
+```
 
 Change the `000.000.0.0` into ip address value based on the IP address of the computer hosting the website. 
 

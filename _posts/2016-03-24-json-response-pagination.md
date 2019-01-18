@@ -16,7 +16,7 @@ Code specific example bellow require laravel > v5.0.
 
 ### Example 1 using cursor with fractal
 
-{% highlight PHP %}
+```php
 use Acme\Model\Book;
 use Acme\Transformer\BookTransformer;
 use League\Fractal\Pagination\Cursor;
@@ -37,11 +37,11 @@ $cursor = new Cursor($currentCursor, $previousCursor, $newCursor, $books->count(
 
 $resource = new Collection($books, new BookTransformer);
 $resource->setCursor($cursor);
-{% endhighlight %}
+```
 
 ### Example 2 using dingo API
 
-{% highlight PHP %}
+```php
 class UserController extends BaseController
 {
     public function index()
@@ -51,7 +51,7 @@ class UserController extends BaseController
         return $this->response->paginator($users, new UserTransformer);
     }
 }
-{% endhighlight %}
+```
 
 Reference :
 
