@@ -43,7 +43,7 @@ docs(changelog): update change log to alpha.9
 ```
 
 ```
-fix(release): need to depend on Africa
+fix(release): need to depend on package
 
 The version in our package.json gets copied to the one we publish, and users need the latest of these.
 ```
@@ -55,20 +55,19 @@ In the body it should say: `This reverts commit <hash>.`, where the hash is the 
 
 ### Type
 
-Must be one of the following:
+Must be one of the following: _build, chore, ci, docs, feat, fix, perf, refactor, revert, style, test_
 
 - **build**: Changes that affect the build system or external dependencies (example scopes: gulp, npm, webpack)
+- **chore**: Chore
 - **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, etc)
 - **docs**: Documentation only changes
 - **feat**: A new feature
 - **fix**: A bug fix
 - **perf**: A code change that improves performance
 - **refactor**: A code change that neither fixes a bug nor adds a feature
+- **revert**: Revert change
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
-
-- **packaging**: used for changes that change the package layout (_e.g. package.json, bundles, path changes, etc._)
-- **changelog**: used for updating the release notes in CHANGELOG.md
 
 ### Subject
 
