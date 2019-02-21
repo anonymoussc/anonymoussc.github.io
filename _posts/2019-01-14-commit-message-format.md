@@ -58,14 +58,14 @@ In the body it should say: `This reverts commit <hash>.`, where the hash is the 
 Must be one of the following: _build, chore, ci, docs, feat, fix, perf, refactor, revert, style, test_
 
 - **build**: Changes that affect the build system or external dependencies (example scopes: gulp, npm, webpack)
-- **chore**: Chore
+- **chore**: Other changes that don't modify src or test file
 - **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, etc)
 - **docs**: Documentation only changes
 - **feat**: A new feature
 - **fix**: A bug fix
 - **perf**: A code change that improves performance
 - **refactor**: A code change that neither fixes a bug nor adds a feature
-- **revert**: Revert change
+- **revert**: Reverts a previous commit
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
 
