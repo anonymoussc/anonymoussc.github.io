@@ -1,7 +1,7 @@
 ---
 title:  "Set, unset and get git global http.proxy configuration"
 date:   2020-05-10 16:56:00
-summary: cli
+summary: Command line interface
 ---
 
 ## Set
