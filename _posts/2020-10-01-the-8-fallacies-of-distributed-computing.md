@@ -17,6 +17,8 @@ summary: The 8 fallacies of distributed computing
 
 **Peter Deutsch**, 1994
 
+For more details please check [fallacies.pdf](https://www.rgoarchitects.com/Files/fallacies.pdf).
+
 ---
 > Science is simply common sense at its best, that is, rigidly accurate in observation, and merciless to fallacy in logic.
 > <small>- [Thomas Huxley](https://www.brainyquote.com/quotes/thomas_huxley_118633)</small>
