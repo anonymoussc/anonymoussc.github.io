@@ -19,5 +19,5 @@ In essence, a design pattern is about describing a reusable solution to a proble
 This list is not intended to be comprehensive; it's a minimal list of design patterns that are required to handle the challenges in microservice.
 
 ---
-> [If we want users to like our software, we should design it to behave like a likeable person.](https://www.brainyquote.com/quotes/alan_cooper_725631)
-> <small>- [Alan Cooper](https://www.brainyquote.com/authors/alan-cooper-quotes)</small>
+> What is design? It's where you stand with a foot in two worlds - the world of technology and the world of people and human purposes - and you try to bring the two together.
+> <small>- [Mitch Kapor](https://www.brainyquote.com/quotes/mitch_kapor_169702)</small>
