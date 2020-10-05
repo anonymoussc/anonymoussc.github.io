@@ -4,6 +4,8 @@ date:   2020-10-06 06:17:00
 summary: Sending and receiving messages with Spring Cloud Stream code example
 ---
 
+Spring Cloud Stream provides a streaming abstraction over messaging, based on the publish and subscribe integration pattern. Spring Cloud Stream comes with out of the box support for Apache Kafka and RabbitMQ but can be extended to support other messaging brokers using custom binders.
+
 The Message class
 
 ```java
