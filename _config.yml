@@ -102,5 +102,5 @@ defaults:
       layout: "post"
       excerpt_separator: "<!--more-->"
 # Gems
-gems:
+plugins:
   - jemoji
