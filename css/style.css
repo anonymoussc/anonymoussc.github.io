@@ -91,9 +91,11 @@ li {
     line-height : 1.4;
 }
 
+/* Bold font line-height fix */
+/* 
 li * {
-    line-height : 1em; /* Bold font line-height fix */
-}
+    line-height : 1em; 
+} */
 
 img {
     max-width : 100%;
